@@ -1,0 +1,50 @@
+/**
+ * CSS Buttons Stylesheet
+ *
+ * Thanks to paulm for much of the content of the CSS buttons code
+ *
+ * @package templateSystem
+ * @copyright Copyright 2003-2005 Zen Cart Development Team
+ * @copyright Portions Copyright 2003 osCommerce
+ * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
+ * @version $Id: stylesheet_css_buttons.css 4567 2006-09-20 01:55:24Z birdbrain $
+ */
+
+/* css buttons */
+.cssButton, .cssButtonHover {
+width : 22em;
+background-color: #FF9900;
+color : #FFFFFF;
+border: 2px #990000;
+font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+font-size: 0.95em;
+text-align:center;
+white-space: nowrap;
+text-decoration: none;
+font-weight: bold;
+padding: 0.1em;
+/*border-spacing: 1px;*/
+/*margin-left: auto;
+margin-right: auto;*/
+/*display: block;*/
+/*vertical-align: top;*/
+/*line-height: 130%;*/
+/*cursor: pointer;*/
+}
+
+.cssButtonHover {
+color: #000000;
+background-color: #FFFF00;
+border-style: 5px #000000;
+text-decoration: none;
+}
+/* adding the styles below might be needed if the default button width is changed */
+/* .button_continue_shopping, .button_shipping_estimator {width: 150px;} */
+.small_delete, .button_prev, .button_next, .button_search  {width: 7em;}
+.button_sold_out_sm, .button_sold_out, .button_update_cart, .button_checkout, .button_login {width: 10em;}
+.button_return_to_product_list, .button_add_selected {width: 22em;}
+.button_in_cart{width: 19em;}  
+.button_submit {width: 19em;}
+.button_update_cart {color: red;}
+.button_update_cartHover {color: #003D00;}
+/*.innerbox#headernavcenter .boxtext .button_search {display:inline;}*/

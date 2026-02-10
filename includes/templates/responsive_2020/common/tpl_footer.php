@@ -1,0 +1,193 @@
+<?php
+/**
+ * Common Template - tpl_footer.php
+ *
+ * this file can be copied to /templates/your_template_dir/pagename<br />
+ * example: to override the privacy page<br />
+ * make a directory /templates/my_template/privacy<br />
+ * copy /templates/templates_defaults/common/tpl_footer.php to /templates/my_template/privacy/tpl_footer.php<br />
+ * to override the global settings and turn off the footer un-comment the following line:<br />
+ * <br />
+ * $flag_disable_footer = true;<br />
+ *
+ * @package templateSystem
+ * @copyright Copyright 2003-2016 Zen Cart Development Team
+ * @copyright Portions Copyright 2003 osCommerce
+ * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
+ * @version $Id: picaflor-azul Fri Jan 8 17:06:29 2016 -0500 New in v1.5.5 $
+ */
+require(DIR_WS_MODULES . zen_get_module_directory('footer.php'));
+?>
+
+<?php
+if (!isset($flag_disable_footer) || !$flag_disable_footer) {
+?>
+
+<!--bof-navigation display
+<div id="navSuppWrapper">
+<div id="navSupp">
+<ul>
+<li><?php echo '<a href="' . HTTP_SERVER . DIR_WS_CATALOG . '">'; ?><?php echo HEADER_TITLE_CATALOG; ?></a></li>
+<?php if (EZPAGES_STATUS_FOOTER == '1' or (EZPAGES_STATUS_FOOTER == '2' and (strstr(EXCLUDE_ADMIN_IP_FOR_MAINTENANCE, $_SERVER['REMOTE_ADDR'])))) { ?>
+<?php require($template->get_template_dir('tpl_ezpages_bar_footer.php',DIR_WS_TEMPLATE, $current_page_base,'templates'). '/tpl_ezpages_bar_footer.php'); ?>
+<?php } ?>
+</ul>
+</div>
+</div>
+eof-navigation display -->
+
+<!--bof-ip address display -->
+<?php
+if (SHOW_FOOTER_IP == '1') {
+?>
+<div id="siteinfoIP"><?php echo TEXT_YOUR_IP_ADDRESS . '  ' . $_SERVER['REMOTE_ADDR']; ?></div>
+<?php
+}
+?>
+<!--eof-ip address display -->
+
+<!--bof-banner #5 display -->
+<?php
+  if (SHOW_BANNERS_GROUP_SET5 != '' && $banner = zen_banner_exists('dynamic', SHOW_BANNERS_GROUP_SET5)) {
+    if ($banner->RecordCount() > 0) {
+?>
+<div id="bannerFive" class="banners"><?php echo zen_display_banner('static', $banner); ?></div>
+<?php
+    }
+  }
+?>
+<!--eof-banner #5 display -->
+
+
+
+<?php
+} // flag_disable_footer
+?>
+
+<?php if (false || (isset($showValidatorLink) && $showValidatorLink == true)) { ?>
+<a href="https://validator.w3.org/nu/?doc=<?php echo urlencode('http' . ($request_type == 'SSL' ? 's' : '') . '://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'] . (strstr($_SERVER['REQUEST_URI'], '?') ? '&' : '?') . zen_session_name() . '=' . zen_session_id()); ?>" target="_blank">VALIDATOR</a>
+<?php } ?>
+
+</div>
+<div class="footer" id="footer-top">
+  <div class="container">
+    <div class="inside">
+       <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+          <div class="info">
+            <div class="info-icon">
+                <i class="fa fa-dollar"></i>
+            </div>
+            <div class="info-text">
+                <h5>Prices include GST</h5>
+                <p>No nasty surprises at checkout</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+          <div class="info">
+            <div class="info-icon">
+                <i class="fa fa-print"></i>
+            </div>
+            <div class="info-text">
+                <h5>Need Help Printing?</h5>
+                <p><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=3">We can print them for you!</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+          <div class="info">
+            <div class="info-icon">
+                <i class="fa fa-diamond"></i>
+            </div>
+            <div class="info-text">
+                <h5>High Quality Materials</h5>
+                <p><a href="https://www.blanklabels.com.au/index.php?main_page=page_3">We only use the best materials</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer" id="footer-center">
+  <div class="container">
+    <div class="inside">
+       <div class="row">
+        <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12">
+          <div class="logo-footer">
+            <a href="#"><img alt="BlankLabels" src="includes/templates/responsive_2020/images/blanklabels-footer.gif" class="img-responsive"> </a>
+            <p style="padding:0px;">Blank Labels.com.au is part of Power2Print and can also help you with all kinds of printing.<br>Why not ask us for a quote?</p>
+            <p style="padding:0px;"><a href="index.php?main_page=contact_us"><span class="normal_button button">Contact Us</span></a></p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+          <div class="panel panel-v1">
+            <div class="panel-heading">
+              <h4 class="panel-title">Products and Services</h4>
+            </div>
+            <div class="panel-body">
+              <ul class="list-unstyled">
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=9">White Paper Labels (A4)</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=4">Coloured Paper Labels (A4)</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=136">Tamperproof Labels (A4)</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=94">Speciality Paper Labels (A4)</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=49">Synthetic Labels (A4)</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=10">Vinyl PVC Labels (A4)</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=133">A3 label sheets</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=147">Roll Labels</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=3">Printed Labels</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=135">Pre-printed Labels</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=61">Business Cards</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=index&amp;cPath=39">Creative Card</a></li>
+              </ul>
+            </div>
+          </div> 
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+          <div class="panel panel-v1">
+            <div class="panel-heading">
+              <h4 class="panel-title">Information</h4>
+            </div>
+            <div class="panel-body">
+              <ul class="list-unstyled">
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=page&amp;id=3">About Us</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=contact_us">Contact Us</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=page_2">Help & FAQ</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=page_3">Label Stock &amp; Printer Guide</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=printlabels">How to print your own labels</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=labeltemplates">Label Templates</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=page_4">Submitting Artwork</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=shippinginfo">Shipping &amp; Returns</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=discount_coupon">Discount Coupons</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=site_map">Site Map</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=privacy">Privacy Notice</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=conditions">Conditions of Use</a></li>
+              </ul>
+            </div>
+          </div>         
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
+          <div class="panel panel-v1">
+            <div class="panel-heading">
+              <h4 class="panel-title">My Account</h4>
+            </div>
+            <div class="panel-body">
+              <ul class="list-unstyled">
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=shopping_cart">Shopping Cart</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=account">My Account</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=account_history">Order History</a></li>
+                <li><a href="https://www.blanklabels.com.au/index.php?main_page=account_newsletters">Newsletter</a></li>
+              </ul>
+            </div>
+          </div>
+          <p style="text-align: center;"><img alt="Aussie Owned Logo - Proud to be Australian" src="images/aussie-owned-proud-australian-dk.png" class="img-responsive" title="Aussie Owned - Proud to be Australian"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer" id="footer-copyright">
+  <!--bof- site copyright display -->
+  <div id="siteinfoLegal" class="legalCopyright"><?php echo FOOTER_TEXT_BODY; ?></div>
+  <!--eof- site copyright display -->

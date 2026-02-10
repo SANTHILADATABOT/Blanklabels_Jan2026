@@ -1,0 +1,358 @@
+<title>What material and what printer should I use with my Blank Labels?</title>
+
+<p>BlankLabels.com.au's labels come on A4 sheets, so you can print them yourself, using the computer and printer you already have. This is both time efficient and much more economical! But it's important to choose the right stock for your application, and one that you will be able to print on with the printer you have.</p>       
+
+<p>For more detailed descriptions of stocks, <a href="index.php?main_page=page_3#detail">see below</a> the label stock guide.</p>
+
+<h2>Label Stock Guide</h2>
+
+<h4><i>Recommended Uses</i></h4>
+<div class="guibox">
+<p><img alt="Outdoor Use" src="images/stocks/outdoor.gif" title="Outdoor Use"><span> - Outdoor Use</span></p>
+<p><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><span> - Strong Adhesion</span></p>
+<p><img alt="Moisture Resistant" src="images/stocks/moisture.gif" title="Moisture Resistant"><span> - Moisture Resistant</span></p>
+<p><img alt="Acid, Oil and Solvent Resistant" src="images/stocks/acid.gif" title="Acid, Oil and Solvent Resistant"><span> - Acid, Oil and Solvent Resistant</span></p>
+<p><img alt="Refrigeration" src="images/stocks/refrigeration.gif" title="Refrigeration"><span> - Refrigeration</span></p>
+<p><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"><span> - Can go in Freezer</span></p>
+<p><img alt="Heat Resistant" src="images/stocks/heat.gif" title="Heat Resistant"><span> - Heat Resistant</span></p>
+<p>*All stock permanent unless stated otherwise</p>
+</div>
+<div class="stoguide" style="margin-right:2%;">
+  <table class="cattab" width="100%">
+    <tbody><tr class="bord">
+      <th colspan="3">White Paper</th>
+      <td><img class="imgright" alt="Available in White" src="images/stocks/white.gif" title="Available in White"></td>
+      <td rowspan="2" class="prime"><b>Print Method:</b><br>
+        Laser, Inkjet,<br>
+  Copier &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Jet Laser - Matt only</td>
+      </tr>
+    <tr class="bord">
+      <th colspan="4">Specialty White Paper<img class="imgright" alt="Available in White" src="images/stocks/white.gif" title="Available in White"></th>
+      <td rowspan="3" class="prime">Laser &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Matt Vellum</td></tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Gloss (Permanent &amp; Removable)</td></tr>
+    <tr class="bord">
+      <td colspan="3"><strong>Opaque Blockout</strong></td>
+      <td><img class="imgright" alt="Available in White" src="images/stocks/white.gif" title="Available in White"></td>
+      <td rowspan="2" class="prime">Laser &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Gloss only</td>
+      </tr>
+    <tr class="bord">
+      <td colspan="3"><strong>FR8 - Pre-Frozen Products</strong></td>
+      <td><img class="imgright" alt="Available in White" src="images/stocks/white.gif" title="Available in White"></td>
+      <td rowspan="2" class="prime">Laser &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="3"><b>Stock:</b> Gloss only</td>
+      <td><img class="imgright" alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></td>
+      </tr>
+    <tr class="bord">
+      <td colspan="3"><strong>Wine Stock WLK202</strong></td>
+      <td><img class="imgright" alt="Available in White" src="images/stocks/white.gif" title="Available in White"></td>
+      <td rowspan="2" class="prime">Laser &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Gloss only<div class="imgright"><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><img alt="Suitable for Refrigeration" src="images/stocks/refrigeration.gif" title="Suitable for Refrigeration"><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></div></td>
+      </tr>
+    <tr class="bord">
+      <td colspan="3"><strong>Wine Stock Premium</strong></td>
+      <td><img class="imgright" alt="Available in White" src="images/stocks/white.gif" title="Available in White"></td>
+      <td rowspan="2" class="prime">Laser &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Matt only<div class="imgright"><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><img alt="Suitable for Refrigeration" src="images/stocks/refrigeration.gif" title="Suitable for Refrigeration"><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></div></td>
+      </tr>
+    <tr class="bord">
+      <th colspan="4">Tint Colour Paper</th>
+      <td rowspan="4" class="prime">Laser, Inkjet,<br>Copier &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Stock:</b> Matt only</td>
+      <td colspan="2" class="cent" style="line-height: 1;font-size:10px;font-style:italic;">PMS numbers to be<br>used as a guide only</td>
+      </tr>
+    <tr class="cent">
+      <td><img alt="Available in Green Tint Colour (PMS 351)" src="images/stocks/ti_green.gif" title="Available in Green Tint Colour (PMS 351)"><br>
+        Green</td>
+      <td><img alt="Available in Blue Tint Colour (PMS 290)" src="images/stocks/ti_blue.gif" title="Available in Blue Tint Colour (PMS 290)"><br>
+        Blue</td>
+      <td><img alt="Available in Purple Tint Colour (PMS 263)" src="images/stocks/ti_purple.gif" title="Available in Purple Tint Colour (PMS 263)"><br>
+        Purple</td>
+      <td><img alt="Available in Turquoise Tint Colour (PMS 317)" src="images/stocks/ti_turquoise.gif" title="Available in Turquoise Tint Colour (PMS 317)"><br>
+        Turquoise</td>
+      </tr>
+    <tr class="cent">
+      <td><img alt="Available in Manilla Tint Colour (PMS 155)" src="images/stocks/ti_manilla.gif" title="Available in Manilla Tint Colour (PMS 155)"><br>
+        Manilla</td>
+      <td><img alt="Available in Pink Tint Colour (PMS 182)" src="images/stocks/ti_pink.gif" title="Available in Pink Tint Colour (PMS 182)"><br>
+        Pink</td>
+      <td><img alt="Available in Yellow Tint Colour (PMS 100)" src="images/stocks/ti_yellow.gif" title="Available in Yellow Tint Colour (PMS 100)"><br>
+        Yellow</td>
+      <td><img alt="Available in Cool Grey Tint Colour (PMS 427)" src="images/stocks/ti_cool_grey.gif" title="Available in Cool Grey Tint Colour (PMS 427)"><br>
+        Cool Grey</td>
+      </tr>
+    <tr class="bord">
+      <th colspan="4">Specialty Paper</th>
+      <td rowspan="5" class="prime">Laser &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>Ivory - Wine Label Uncoated</strong></td>
+      <td><img class="imgright" alt="Available in Ivory" src="images/stocks/ivory3.gif" title="Available in Ivory"></td>
+      </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Matt only<div class="imgright"><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><img alt="Suitable for Refrigeration" src="images/stocks/refrigeration.gif" title="Suitable for Refrigeration"><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></div></td>
+      </tr>
+    <tr>
+      <td colspan="3"><strong>Cardboard Look Finish</strong></td>
+      <td><img class="imgright" alt="Available in Cardboard Look Finish" src="images/stocks/kraft.gif" title="Available in Cardboard Look Finish"></td>
+      </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Kraft Natural - Matt only<div class="imgright"><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><img alt="Suitable for Refrigeration" src="images/stocks/refrigeration.gif" title="Suitable for Refrigeration"><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></div></td>
+    </tr>
+    <tr class="bord">
+      <th colspan="3">Dissolvable White Paper</th>
+      <td><img class="imgright" alt="Dissolvable White Stock" src="images/stocks/dissolvable.gif" title="Dissolvable White Stock"></td>
+      <td rowspan="2" class="prime">Flexographic</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Matt only<br><em style="color:#d80000;">Completely dissolves in water</em></td>
+    </tr>
+  </tbody></table>
+</div>
+<div class="stoguide">
+  <table class="cattab" width="100%">
+    <tbody><tr class="bord">
+      <th colspan="3">Colour Paper</th>
+      <td>&nbsp;</td>
+      <td rowspan="5" class="prime"><b>Print Method:</b><br>
+        Laser &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Stock:</b> Matt or Gloss</td>
+      <td colspan="2" class="cent" style="line-height: 1;font-size:10px;font-style:italic;">PMS numbers to be<br>used as a guide only</td>
+      </tr>
+    <tr class="cent">
+      <td><img alt="Available in Red" src="images/stocks/co_red.gif" title="Available in Red"><br>Red</td>
+      <td><img alt="Available in Dark Blue" src="images/stocks/co_dk_blue.gif" title="Available in Dark Blue"><br>Dark Blue</td>
+      <td><img alt="Available in Mid Blue" src="images/stocks/co_mid_blue.gif" title="Available in Mid Blue"><br>Mid Blue</td>
+      <td><img alt="Available in Brown" src="images/stocks/co_brown.gif" title="Available in Brown"><br>Brown</td>
+      </tr>
+    <tr class="cent">
+      <td><img alt="Available in Yellow" src="images/stocks/co_yellow.gif" title="Available in Yellow"><br>Yellow</td>
+      <td><img alt="Available in Green" src="images/stocks/co_green.gif" title="Available in Green"><br>Green</td>
+      <td><img alt="Available in Pink" src="images/stocks/co_pink.gif" title="Available in Pink"><br>Pink</td>
+      <td><img alt="Available in Grey" src="images/stocks/co_grey.gif" title="Available in Grey"><br>Grey</td>
+      </tr>
+    <tr class="cent">
+      <td><img alt="Available in Black" src="images/stocks/co_black.gif" title="Available in Black"><br>Black</td>
+      <td><img alt="Available in Purple" src="images/stocks/co_purple.gif" title="Available in Purple"><br>Purple</td>
+      <td><img alt="Available in Orange" src="images/stocks/co_orange.gif" title="Available in Orange"><br>Orange</td>
+      <td><img alt="Available in Light Green" src="images/stocks/co_lt_green.gif" title="Available in Light Green"><br>Lt Green</td>
+      </tr>
+    <tr class="bord">
+      <th colspan="4">Fluorescent Paper</th>
+      <td rowspan="4" class="prime">Laser &amp; Offset</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Matt Only (*Yellow Removable option)</td>
+      </tr>
+    <tr class="cent">
+      <td><img alt="Available in Fluorescent Red" src="images/stocks/fl_red.gif" title="Available in Fluorescent Red"><br>
+        Red</td>
+      <td><img alt="Available in Fluorescent Green" src="images/stocks/fl_green.gif" title="Available in Fluorescent Green"><br>
+        Green</td>
+      <td><img alt="Available in Fluorescent Orange" src="images/stocks/fl_orange.gif" title="Available in Fluorescent Orange"><br>
+        Orange</td>
+      <td><img alt="Available in Fluorescent Pink" src="images/stocks/fl_pink.gif" title="Available in Fluorescent Pink"><br>
+        Pink</td>
+      </tr>
+    <tr class="cent">
+      <td><img alt="Available in Fluorescent Yellow" src="images/stocks/fl_yellow.gif" title="Available in Fluorescent Yellow"><br>
+        Yellow</td>
+      <td colspan="3"><img alt="Available in Fluorescent Yellow" src="images/stocks/fl_yellow.gif" title="Available in Fluorescent Yellow"><br>
+        *Yellow Removable option</td>
+    </tr>
+    <tr class="bord">
+      <th colspan="4">Foil Metallic Paper</th>
+      <td rowspan="2" class="prime">Offset &amp; Screen Print</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Stock:</b> Matt &amp; Gloss</td>
+      <td class="cent"><img alt="Available in Gold Foil" src="images/stocks/gold_foil.gif" title="Available in Gold Foil"><br>Gold</td>
+      <td class="cent"><img alt="Available in Silver Foil" src="images/stocks/silver_foil.gif" title="Available in Silver Foil"><br>Silver</td>
+      </tr>
+    <tr class="bord">
+      <th colspan="4">Synthetic</th>
+      <td rowspan="4" class="prime">Laser, Offset &amp; Screen Print</td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>Synthetic White</strong></td>
+      <td><img class="imgright" alt="Available in White" src="images/stocks/white.gif" title="Available in White"></td>
+      </tr>
+    <tr>
+      <td colspan="3"><strong>Synthetic Translucent</strong></td>
+      <td><img class="imgright" alt="Translucent Stock" src="images/stocks/clear_p.gif" title="Translucent Stock"></td>
+      </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Matt only<div class="imgright"><img alt="Heat Resistant" src="images/stocks/heat.gif" title="Heat Resistant"><img alt="Acid, Oil and Solvent Resistant" src="images/stocks/acid.gif" title="Acid, Oil and Solvent Resistant"><img alt="Outdoor Use" src="images/stocks/outdoor.gif" title="Outdoor Use"><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><img alt="Moisture Resistant" src="images/stocks/moisture.gif" title="Moisture Resistant"><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></div></td>
+      </tr>
+    <tr class="bord">
+      <td colspan="3"><strong>Clear Polylaser</strong></td>
+      <td><img class="imgright" alt="Clear Stock" src="images/stocks/clear_p.gif" title="Clear Stock"></td>
+      <td rowspan="2" class="prime">Laser, Offset &amp; Screen Print</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Gloss only<div class="imgright"><img alt="Heat Resistant" src="images/stocks/heat.gif" title="Heat Resistant"><img alt="Acid, Oil and Solvent Resistant" src="images/stocks/acid.gif" title="Acid, Oil and Solvent Resistant"><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><img alt="Moisture Resistant" src="images/stocks/moisture.gif" title="Moisture Resistant"><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></div></td>
+      </tr>
+    <tr class="bord">
+      <td colspan="3"><strong>Vinyl PVC Clear</strong></td>
+      <td><img class="imgright" alt="Clear Stock" src="images/stocks/clear_p.gif" title="Clear Stock"></td>
+      <td rowspan="2" class="prime">Screen Print Only</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Gloss only<div class="imgright"><img alt="Heat Resistant" src="images/stocks/heat.gif" title="Heat Resistant"><img alt="Acid, Oil and Solvent Resistant" src="images/stocks/acid.gif" title="Acid, Oil and Solvent Resistant"><img alt="Outdoor Use" src="images/stocks/outdoor.gif" title="Outdoor Use"><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><img alt="Moisture Resistant" src="images/stocks/moisture.gif" title="Moisture Resistant"><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></div></td>
+      </tr>
+    <tr class="bord">
+      <td colspan="3"><strong>Vinyl PVC White</strong></td>
+      <td><img class="imgright" alt="Available in White" src="images/stocks/white.gif" title="Available in White"></td>
+      <td rowspan="2" class="prime">Screen Print Only</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Gloss only<div class="imgright"><img alt="Heat Resistant" src="images/stocks/heat.gif" title="Heat Resistant"><img alt="Acid, Oil and Solvent Resistant" src="images/stocks/acid.gif" title="Acid, Oil and Solvent Resistant"><img alt="Outdoor Use" src="images/stocks/outdoor.gif" title="Outdoor Use"><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><img alt="Moisture Resistant" src="images/stocks/moisture.gif" title="Moisture Resistant"><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></div></td>
+      </tr>
+    <tr class="bord">
+      <td colspan="3"><strong>PE Laser White</strong></td>
+      <td><img class="imgright" alt="Available in White" src="images/stocks/white.gif" title="Available in White"></td>
+      <td rowspan="2" class="prime">Inkjet &amp; Laser (Black Only)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>Stock:</b> Matt only<div class="imgright"><img alt="Acid, Oil and Solvent Resistant" src="images/stocks/acid.gif" title="Acid, Oil and Solvent Resistant"><img alt="Outdoor Use" src="images/stocks/outdoor.gif" title="Outdoor Use"><img alt="Strong Adhesion" src="images/stocks/strong.gif" title="Strong Adhesion"><img alt="Moisture Resistant" src="images/stocks/moisture.gif" title="Moisture Resistant"><img alt="Can go in Freezer" src="images/stocks/freezer.gif" title="Can go in Freezer"></div></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+<p style="margin:0;padding:10px 0;line-height:1;"><b style="color:#d80000;">CAUTION:</b> <span style="font-size:10px;">Due to the wide range of materials and adhesives available, we advise that you try a sample prior to your purchase. Samples available free on request, please phone or email us for more information. We cannot exchange labels once they have been die cut. We also take no responsibility for damage, fault or error caused by incorrect label purchase.</span></p>
+
+<p style="font-size:12px;margin-top:10px;">Colours are to be used as a guide only as they will vary between computer monitors and actual paper colour. We can send you a FREE sample so you can see exactly what the colour will look like before you order.</p>
+
+<p>&nbsp;</p>
+
+<h2>Paper labels<a name="detail"></a></h2>
+<p>BlankLabels.com.au paper labels come in various colours and finishes:</p>
+<ul>
+    <li>white (matt and gloss)</li>
+    <li>fluorescent colours (matt only)</li>
+    <li>tint colours (matt only)</li>
+    <li>solid colours (matt and gloss)</li>
+    <li>strong colours (matt only)</li>
+</ul>
+<h4>So what printers can I use?</h4>
+<table class="tred alt">
+  <tr>
+    <th>Labels</th>
+    <th>Printer</th>
+  </tr>
+  <tr>
+    <td><strong>Matt paper labels</strong></td>
+    <td>Inkjet, laser, photocopier</td>
+  </tr>
+  <tr>
+    <td><strong>Gloss paper labels</strong></td>
+    <td>Laser and Offset</td>
+  </tr>
+</table>
+<p>Laser printers and photocopiers can print on any paper labels, but inkjet printers will only print on matt finish labels. The inkjet ink won't dry properly on gloss surfaces and it will therefore smudge if you touch it.</p>
+<p>Its also worth noting that inkjet ink is water based and will run if it gets wet - although there is a synthetic label on which you can print with and inkjet printer, and it won't run! Check out the <strong>PE Laser White</strong>.</p>
+
+<p>&nbsp;</p>
+
+<h2>Speciality paper labels</h2>  
+<table class="tred alt">
+  <tr>
+    <th>Labels</th>
+    <th>Printer</th>
+  </tr>
+  <tr>
+    <td><strong>White Opaque (for blockout) paper labels</strong> - Gloss only</td>
+    <td><strong>Laser and Offset.</strong><br />Has a stronger adhesive than standard paper labels, so it is well suited to where you want that bit more 'stickability'</td>
+  </tr>
+  <tr>
+     <td><strong>Kraft Natural Cardboard Look Labels</strong> - Matt only.<br />Give your labels that rustic look with brown Kraft labels. These labels have a strong adhesion and can be put in the fridge or freezer, making them perfect for jars and bottles. These also work great to label soaps and candles.</td>
+     <td><strong>Laser and offset.</strong></td>
+  </tr>
+</table>
+
+<h4>Wine, Refrigeration and Freezer Labels</h4>
+<table class="tred alt">
+  <tr>
+    <td><strong>White FR8 for fridge and freezer use</strong> - Gloss only<br />These labels are designed to be stuck on to a frozen surface, and they are tremendous for that! They will not wrinkle or bubble in cold damp conditions. Not the right label if you want to stick it on something and then put it in the freezer. Use WLK 202 instead.</td>
+    <td><strong>Laser and Offset.</strong></td>
+  </tr>
+  <tr>
+    <td><strong>White WLK 202 for wine bottle labels</strong> - Gloss only<br />Has an agressive and strong adhesive which makes it well suited to more arduous conditions.</td>
+    <td><strong>Laser and Offset.</strong><br />Matt WLK 202 can be printed with an inkjet, but if the label gets wet the ink will run. This is significant especially for white wines which are often cooled in an ice bucket. </td>
+  </tr>
+  <tr>
+    <td><strong>Uncoated Ivory Wine Labels</strong> - Matt only.<br />Ivory colour with a textured finish. Classy look on your wine bottles!</td>
+    <td><strong>Laser and offset.</strong><br>Uncoated Ivory can be printed with an inkjet, but if the label gets wet the ink will run. This is significant especially for white wines which are often cooled in an ice bucket.</p></div></td>
+  </tr>
+</table>
+
+<h4>Shimmer Labels</h4>
+<table class="tred alt">
+  <tr>
+    <td><strong>Shimmer Gold</strong> - Matt only</td>
+    <td><strong>Laser and offset.</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Shimmer Silver</strong> - Matt only</td>
+    <td><strong>Laser and offset.</strong></td>
+  </tr>
+</table>
+
+<h4>Foil Labels</h4>
+<table class="tred alt">
+  <tr>
+    <td><strong>Gold Foil</strong> - Matt & Gloss</td>
+    <td><strong>Offset printing only.</strong><br>Laser & photocopier may work but the printing can scratch off easily. Not recommended or guaranteed.</td>
+  </tr>
+  <tr>
+    <td><strong>Silver Foil</strong> - Matt & Gloss</td>
+    <td><strong>Offset printing only.</strong><br>Laser & photocopier may work but the printing can scratch off easily. Not recommended or guaranteed.</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<h2>Synthetic Labels</h2>
+<p>BlankLabels.com.au is at the forefront with a wide range of synthetic labels so that you can choose the right labels for your job!</p>
+<table class="tred alt">
+  <tr>
+    <th>Labels</th>
+    <th>Printer</th>
+  </tr>
+  <tr>
+    <td><strong>Synthetic white & Translucent.</strong><br />Synthetic is ideal for outside or rugged conditions use. Weatherproof and often used for labels to stick on cars, etc.</td>
+    <td>Laser, Offset and Screen Print</td>
+  </tr>
+  <tr>
+    <td><strong>Polylaser gloss clear.</strong><br />The ideal clear label for a wide variety of uses. Because of its clear nature it is almost invisible when applied to a surface, so that your clients will see only the printing on the label.<a name="d303"></a></td>
+    <td>Laser, Offset and Screen Print</td>
+  </tr>
+  <tr>
+    <td><strong>PE Laser White.</strong><br />This is the only synthetic label you can use with an inkjet printer - and it's weatherproof too! The ink doesn't run, because the softer porous surface of the label absorbs the ink. </td>
+    <td>Inkjet OK. Also suitable for offset printing. Not suitable for laser.</td>
+  </tr>
+</table>
+
+<p class="quote">
+Blank Labels.com.au also does printed labels, stickers, business cards, invoice books, magazine, newsletters and more.<br>
+<strong>Why not <a href="index.php?main_page=contact_us">ask us for a quote?</a></strong></p>

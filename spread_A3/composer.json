@@ -1,0 +1,11 @@
+{
+    "name": "blank/spreadsheet",
+    "require": {
+        "phpoffice/phpexcel": "1.8.1"
+    },
+    "config": {
+        "platform": {
+            "php": "5.4.0"
+        }
+    }
+}

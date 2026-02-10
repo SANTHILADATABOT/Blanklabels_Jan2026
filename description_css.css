@@ -1,0 +1,45 @@
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #990000;
+}
+
+h2 {font-family: Arial, Helvetica, sans-serif;
+	color: #900;
+	font-weight:bold;
+	font-size: 14px;
+	text-align: center;
+	
+}
+
+.headingbox {
+	position:relative;
+	width:750px;
+	left:100px;
+}
+	
+
+h3 {
+font-family: Arial, Helvetica, sans-serif;
+	color: #006;
+	font-weight:bold;
+	font-size: 24px;
+	text-align: center;
+}
+
+.boldtext {
+	font-family: Arial, Helvetica, sans-serif;
+	color:#990000;
+	font-weight:bold;
+	font-size: 13px;
+}
+
+.description a:link {
+	color: #006600;
+	text-decoration: none;
+	}
+	
+.description a:hover {
+	color: #336600;
+	text-decoration: underline;
+	}

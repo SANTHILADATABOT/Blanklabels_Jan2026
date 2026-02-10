@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/includes/templates/template_default/css/gss.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- generator="Zen-Cart SitemapXML" 3.9.5 -->
+<!-- sitemapmanufacturers.xml created at 2022-02-21 10:30:45 -->
+ <url>
+  <loc>https://www.blanklabels.com.au/index.php?main_page=index&amp;manufacturers_id=1</loc>
+  <lastmod>2007-06-06</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+ </url>
+</urlset>

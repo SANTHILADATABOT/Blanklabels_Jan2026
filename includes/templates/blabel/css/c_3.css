@@ -1,0 +1,26 @@
+/**
+ *  CSS category Stylesheet
+ *
+ * @package templateSystem
+ * @copyright Copyright 2003-2006 Zen Cart Development Team
+ * @copyright Portions Copyright 2003 osCommerce
+ * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
+ * @version $Id: stylesheet.css 4813 2006-10-23 02:13:53Z drbyte $
+ */
+
+body {
+	margin: 0;
+//	font-family: verdana, arial, helvetica, sans-serif;
+//	font-size: 62.5%;
+//	color: #000000;
+	background-color: #006600;
+	}
+
+#logoWrapper{
+	background-image:   url(../images/blpr_logo.gif);
+	background-repeat: no-repeat;
+	background-color: #ffffff;
+	background-position: 0 12px; 
+//	height:121px;
+	}
+

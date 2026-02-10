@@ -1,0 +1,199 @@
+<title>FAQ & Suggested Uses</title>
+
+<p><strong>It's easy to be creative with BlankLabels.com.au! Whatever the picture in your head is, we are very likely to have labels to suit you!</strong></p>
+<p>&nbsp;</p>
+
+<div class="faq">
+  <h2>I want to use my labels for ...</h2>
+  <ul>
+    <li><a href="index.php?main_page=page_2#question1">Making address labels for mail outs.</a></li>
+    <li><a href="index.php?main_page=page_2#q2">Making return address labels.</a></li>
+    <li><a href="index.php?main_page=page_2#q3">Sticking on to bottles or jars that will end up in the fridge.</a></li>
+    <li><a href="index.php?main_page=page_2#qFreezer">Sticking on to already frozen goods.</a></li>
+    <li><a href="index.php?main_page=page_2#q4">Clear labels to put on bottles. And I want to print them on my laser printer.</a></li>
+    <li><a href="index.php?main_page=page_2#qEssential">Essential oils and other products. The labels need to be able to retain the print when exposed to general wear and water.</a></li>
+    <li><a href="index.php?main_page=page_2#q5">Make some really 'Stand out' labels to put on some promotional materials.</a></li>
+    <li><a href="index.php?main_page=page_2#q6">To put some gold stars on merit certificates for our school.</a></li>
+    <li><a href="index.php?main_page=page_2#q7">Put on my CD/ DVD collection.</a></li>
+    <li><a href="index.php?main_page=page_2#q8">I need to permanently label some Tupperware containers.</a></li>
+    <li><a href="index.php?main_page=page_2#q9">I need to label some school supplies.</a></li>
+    <li><a href="index.php?main_page=page_2#q10">For mugs &amp; decorative plates at my son's school Mother's Day stall.</a></li>
+    <li><a href="index.php?main_page=page_2#q12">Can you supply labels that are water resistant or waterproof to label the cups in the office?</a></li>
+    <li><a href="index.php?main_page=page_2#q13">I'm after some blank stickers for outdoor use.</a></li>
+    <li><a href="index.php?main_page=page_2#q14">We are looking for labels that won't fall off in the fridge or freezer.</a></li>
+    <li><a href="index.php?main_page=page_2#q15">Do you have labels that are suitable for use in chemical applications?</a></li>
+  </ul>
+  <h2>Frequently Asked Questions</h2>
+  <ul>
+    <li><a href="index.php?main_page=page_2#qRemovable">What is the difference between permanent labels and removable labels?</a></li>
+    <li><a href="index.php?main_page=page_2#qTemplates">What templates are there for these labels? What programs can I use to print them?</a></li>
+    <li><a href="index.php?main_page=page_2#qMargins">I'm having trouble with the template printing margins, any tips?</a></li>
+    <li><a href="index.php?main_page=page_2#q11">Are gloss white labels suitable for inkjet printers?</a></li>
+    <li><a href="index.php?main_page=page_2#qLaser">I have a colour laser printer. What kind of labels can I print?</a></li>
+  </ul>
+</div>
+<p>&nbsp;</p>
+
+<h2>I want to use my labels for ...</h2>
+
+<h3>Making address labels for mail outs.<a name="question1"></a></h3>
+<p>The most economical labels to use are the are our Permanent Matt White paper labels. A popular size for address labels is <a href="index.php?main_page=product_info&cPath=9_42&products_id=313">64mm x 33.9mm (code 363-24)</a>. You can print on these using Laser, inkjet, or offset printers, and they are suitable for photocopiers.</p>
+<p>If you have a laser printer however, you can customise your return address labels by using clear labels or coloured labels in either solid colours, tints, or fluorescents to add a touch of vibrancy and interest to your mail-outs.</p>
+<p>&nbsp;</p>
+
+<div class="testimonial">
+  <p><i>"2 days from order to receipt. Fantastic!"</i></p>
+  <p><b>- Corinne, Enmore NSW</b></p>
+</div>
+<p>&nbsp;</p>
+
+<h3>Making return address labels.<a name="q2"></a></h3>
+<p>Two sizes are often used - <a href="index.php?main_page=product_info&cPath=9_42&products_id=307">38.1mm x 21.2mm (code 356-65)</a>, which has 65 labels per sheet; or <a href="index.php?main_page=product_info&cPath=9_42&products_id=309">48mm by 20mm (code 345-56)</a>, which has 56 labels per sheet. The most economical material to use is Permanent Matt White Paper labels which is suitable for laser, inkjet and offset printers, and for photocopiers.</p>
+<p>Again, customising your return address labels by using clear labels or coloured labels in either solid colours, tints, or fluorescents adds a touch of vibrancy and interest to your mail-outs.</p>
+<p>&nbsp;</p>
+
+<h3>Sticking on to bottles or jars that will end up in the fridge.<a name="q3"></a></h3>
+<p>The most suitable label for jam jars or wine bottles or similar things that go into the fridge are our Wine labels which come in both Matt and Gloss finishes. They are designed stick properly even after extended periods of refrigeration. These labels can also be used to stick on unfrozen goods before they are put into the freezer.</p>
+<p>Check out our range of <a href="index.php?main_page=index&cPath=94">Specialty Paper Labels here</a>.</p>
+<p>&nbsp;</p>
+
+<h3>Freezer labels - for sticking on to already frozen goods.<a name="qFreezer"></a></h3>
+<p>If you require labels that can be stuck on to already frozen goods and survive in the extremes of the freezer, then use our Frozen Goods labels - called FR8 - which are available in Gloss White. These labels are designed to go on to already frozen goods. To apply them you simply wipe of the frost so that you have a clean surface, and apply the label. They will stay stuck, unlike normal labels which won't stick to an already frozen surface. You can use these with confidence knowing that even in the extremes of the freezer they will not run or de-laminate or come off.</p>
+<p>If you need labels that are stuck on before freezing, and then put into the freezer, our WLK Wine labels will work just fine. Both of these label types can be laser printed.</p>
+<p>Check out our range of <a href="index.php?main_page=index&cPath=94">Specialty Paper Labels here</a>.</p>
+<p>&nbsp;</p>
+
+<h3>Clear labels to put on bottles. And I want to print them on my laser printer.<a name="q4"></a></h3>
+<p>Our Polylaser Clear is ideal for this purpose. It is a transparent polyester material with a permanent adhesive. It is waterproof and very durable. It gives that 'no label' look because it is transparent. It is suitable for both colour and black only laser printers. Suitable for Laser and Offset printers.</p>
+<p>You can also use our other synthetic labels. Our white or translucent synthetic labels, provide completely waterproof, long lasting and good looking labels. They are available in white and translucent matt finishes.</p>
+<p>For a budget option our WLK wine labels should do the trick. These are economical and durable, and can be printed with a laser printer too. They have an enhanced adhesive compared to our standard paper labels and will stick well to jars, bottles and tins. The gloss finish makes them water resistant, but they don't cope being exposed to water for long periods of time.</p>
+<p>Feel free to <a href="index.php?main_page=contact_us">request a sample</a> to try different stocks before purchasing.</p>
+<p>&nbsp;</p>
+
+<h3>I am looking to print my own labels for essential oils and other products.<a name="qEssential"></a> The labels need to be able to retain the print when exposed to general wear and water.</h3>
+<ul>
+  <li><strong>Synthetic White</strong> - which has a matt finish</li>
+  <li><strong>Synthetic Translucent </strong> - which has a matt finish that is semi-transparent</li>
+  <li><strong>Polylaser Clear</strong> - which has a glossy finish that is see through</li>
+</ul>
+<p>These are synthetic labels designed to be tough and lasting in almost any environment. They don't absorb water like paper labels can, which makes them perfectly suited for use on packaging for essential oils and other similar products. You can print on any of these options with a laser printer. Laser printers use toner rather than ink, which means it won't smudge or come off if you touch it.</p>
+<p>Check out our range of <a href="index.php?main_page=index&cPath=49">Synthetic Labels here</a>.</p>
+<p>&nbsp;</p>
+
+<h3>Make some really 'Stand out' labels to put on some promotional materials.<a name="q5"></a></h3>
+<p>Our new shimmer gold and shimmer silver stocks will really make your labels sparkle! Or you could go for gold or silver foil for a premium look. Shop <a href="index.php?main_page=index&cPath=94">specialty paper labels here</a>.</p>
+<p>If you would prefer a coloured label, you can use either one of our five vibrant fluorescent colours, one of our 15 solid colours, or one of our 4 strong primary colours. Any of these will add vibrancy and colour to whatever project you are doing. Suitable for Laser and Offset printers.</p>
+<p>For a softer colour you could use one of the 8 tint colours in our range. Suitable for Laser, Inkjet and Offset printers, and for photocopiers.</p>
+<p>Check out our range of <a href="index.php?main_page=index&cPath=4">coloured paper labels here</a>.</p>
+<p>&nbsp;</p>
+
+<h3>To put some gold stars on merit certificates for our school.<a name="q6"></a></h3>
+<p>Use our Gold Foil labels. We have quite a range of star shapes and sizes to choose from, and you can get them in either gold or silver foil, which is ideal for giving a very classy look to merit certificates, certificates of appreciation, etc. You can print them with almost all laser printers and photocopiers.</p>
+<p>For something different you could try our new gloss shimmer labels! They are lighter in colour and have a glittery appearance. Shop <a href="index.php?main_page=index&cPath=94">specialty paper labels here</a>.</p>
+<p>You can also get the same star shapes in our fluorescent, tint or solid colours to give your merit certificates a bit of different vibrancy! Shop <a href="index.php?main_page=index&cPath=4">coloured paper labels here</a>.</p>
+<p>&nbsp;</p>
+
+<h3>Put on my CD/ DVD collection.<a name="q7"></a></h3>
+<p>We have a selection of different labels available for CDs and DVDs. The most popular - and most economical - is <a href="index.php?main_page=product_info&cPath=9_42&products_id=323">code 357-02</a> which gives 2 CD labels per sheet in matt white permanent paper. These are suitable for laser, inkjet and offset printers, and for photocopiers.</p>
+<p>Because all our label shapes are available in all colours and materials you can get some really cool effects if you use our coloured or clear labels for you CDs!</p>
+<p>One tip, though - make sure that your CD/ DVD player can cope with CDs with labels on them. For most players it's no problem, but some are a bit finicky.</p>
+<p>&nbsp;</p>
+
+<h3>I need to permanently label some Tupperware containers.<a name="q8"></a></h3>
+<p>The best labels to use on Tupperware, especially if they will get wet, are synthetic labels - which are available in either white or translucent, or our Polylaser, which is available in clear only. You can choose from any size or shape in our vast range of sizes and shapes. You can check out our <a href="index.php?main_page=index&cPath=49">synthetic labels</a> section to see all our available sizes and shapes. Please contact us if you want a different size than the ones listed. Both of these label materials can be printed on a laser printer.</p>
+<p>A quick tip - clear labels are great, but you need to have an ink that contrasts with the colour of the Tupperware container or you won't be able to read the label!</p>
+<p>&nbsp;</p>
+
+<h3>I need to label some school supplies.<a name="q9"></a></h3>
+<p>How wide is your imagination!? There are heaps of cool colours and shapes you can choose from! You can choose from vibrant fluorescents to subtle tints to distinguished clear labels. Shop <a href="index.php?main_page=index&cPath=4">coloured paper labels here</a>.</p>
+<p>But the most economical way of labelling school supplies is to use one of our 'off the shelf' economy range in white matt paper, or in white gloss or fluorescent. These are suitable for laser and inkjet printers, and for photocopiers. Shop <a href="index.php?main_page=index&cPath=9_42">white paper economy labels here</a>, or <a href="index.php?main_page=index&cPath=4_64_68">fluorescent paper economy labels here</a>.</p>
+<p>&nbsp;</p>
+
+<h3>For mugs &amp; decorative plates at my son's school Mother's Day stall.<a name="q10"></a></h3>
+<p>Polylaser clear is a suitable label for putting on mugs and decorative plates. They will give an 'invisible label' effect, so that what you see is only the graphic you have printed on them. Being a synthetic it is the most resistant to water and so it will last quite a long time even if washed regularly. If the mugs and plates are purely decorative they will last almost indefinitely.</p>
+<p>As the name indicates. Polylaser clear is specifically designed to be used in laser printers. Shop <a href="index.php?main_page=index&cPath=49">Synthetic Labels here</a>.</p>
+<p>&nbsp;</p>
+
+<h3>Can you supply labels that are water resistant or waterproof to label the cups in the office?<a name="q12"></a></h3>
+<p>The best labels to use for labelling the cups in the office are either the:</p>
+<p><strong>Synthetic labels</strong>, in white or translucent. These labels are made to be used on external surfaces such as cars and are extremely durable and water resistant. They are designed to be used with laser printers. The white label is white, and the translucent label is a semi see through label that has a milky finish.</p>
+<p><strong>Polylaser</strong>. These are a clear label that will give the 'no label' look. It will seem as if the only the name you print on the label appears on the cup. But just be aware that you will need to use a colour that contrasts with what you are sticking it to. If you use black ink and stick it onto a black cup you won't be able to see it! These labels are also very durable and water resistant.</p>
+<p>These labels can also be used to label many other things around the office - folders, staplers, computers, sticky tape dispensers, books, and so on. Best of all, you can print them with whatever you want on the office laser printer.</p>
+<p>Check out our range of <a href="index.php?main_page=index&cPath=49">Synthetic Labels here</a>.</p>
+<p>&nbsp;</p>
+
+<h3>I'm after some blank stickers for outdoor use.<a name="q13"></a></h3>
+<p>We do have several types of labels for outdoor use. They are:</p>
+<ul>
+  <li><strong>Synthetic White</strong> - which has a matt finish</li>
+  <li><strong>Synthetic Translucent </strong> - which has a matt finish that is semi-transparent</li>
+  <li><strong>Polylaser Clear</strong> - which has a glossy finish that is see through</li>
+</ul>
+<p>All of these are suitable for outdoor use. They are tough and long lasting. All of them are available in our large range of shapes.</p>
+<p>All of them are designed to be used with laser printers and work very well that way. Inkjet printers won't work of these labels for two reasons. First, the ink won't dry properly and so it will smudge, and second inkjet ink is water soluble so if the labels was to get wet the ink would run, which wouldn't be very useful if you used them outside.</p>
+<p>Check out our range of <a href="index.php?main_page=index&cPath=49">Synthetic Labels here</a>.</p>
+<p>&nbsp;</p>
+
+<h3>We are looking for labels that won't fall off in the fridge or freezer.<a name="q14"></a></h3>
+<p>We sell a variety labels that are designed to go into either a fridge or a freezer.</p>
+<ul>
+  <li><strong>Wine Stock White WLK 202</strong> - which has a gloss finish</li>
+  <li><strong>Wine Stock Premium</strong> - which has a matt finish that has a slight texture to it</li>
+  <li><strong>Ivory Wine Labels Uncoated</strong> - which has a matt finish and has an off-white colour to it</li>
+  <li><strong>FR8 for pre-frozen products</strong> - which has a glossy finish and is designed to adhere to pre-frozen products</li>
+</ul>
+<p>These paper labels have special adhesives to make them stick in the fridge or freezer. They are designed to be printed using laser printers, or you can handwrite on them using a permanent ink pen. They are very well suited to either commercial or home use.</p>
+<p>We have a range of about 160 different shapes, and the fridge and freezer labels are available in all of those - so you can be a bit creative if you want to!</p>
+<p>Check out our range of <a href="index.php?main_page=index&cPath=94">Specialty Paper Labels here</a>.</p>
+
+<p>&nbsp;</p>
+
+<h3>Do you have labels that are suitable for use in chemical applications?<a name="q15"></a></h3>
+<ul>
+  <li><strong>Synthetic White</strong> - which has a matt finish</li>
+  <li><strong>Synthetic Translucent </strong> - which has a matt finish that is semi-transparent</li>
+  <li><strong>Polylaser Clear</strong> - which has a glossy finish that is see through</li>
+</ul>
+<p>These are synthetic labels designed to be tough and lasting in almost any environment. They are designed to be printed using a laser printer, and are well suited to identifying chemical containers.</p>
+<p>These labels are also suitable for exterior use - on your vehicle or industrial machinery. Make sure they are applied to smooth, clean surfaces.</p>
+<p>Check out our range of <a href="index.php?main_page=index&cPath=49">Synthetic Labels here</a>.</p>
+<p>&nbsp;</p>
+
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is the difference between permanent labels and removable labels?<a name="qRemovable"></a></h3>
+<p><strong>Permanent labels</strong> have an adhesive that sticks to the surface the label is stuck on. If you try to take it off after it has been properly applied, permanent labels remain stuck to the surface, or if they are a paper label they will begin to tear rather than peeling off. If you persist they will come off, but the adhesive will tend to stay on the surface it was stuck to.</p>
+<p><strong>Removable labels</strong> have an adhesive that will come off with the label when you try to peel it off. Rather than sticking to the surface, the removable adhesive sticks to the sticker, and leaves the surface clean.</p>
+<p>After a few days, however, the removable adhesive starts to act like a permanent adhesive and stays stuck to the surface. The ideal use of removable labels is for labels which you want to be able to remove again after a short period of time.</p>
+<p>Remember that all self-adhesive labels are pressure sensitive. If you apply them firmly and rub or roller over them they stick much better than if you apply them lightly.</p>
+<p>BlankLabels.com.au stocks removable labels in matt and gloss white paper labels, and in fluorescent yellow matt paper labels. They are also available with permanent adhesive, but all of our labels are available with permanent adhesive only.</p>
+<p>&nbsp;</p>
+
+<h3>What templates are there for these labels? What programs can I use to print them?<a name="qTemplates"></a></h3>
+<p>There is a variety of software you can use to print labels.</p>
+<p><strong>Graphics Software - </strong>If you have graphics software such as Adobe Illustrator you can use our <a href="index.php?main_page=labeltemplates">PDF templates</a> as a guide.</p>
+<p><strong>Microsoft Word - </strong>Find step by step instructions of how to <a href="index.php?main_page=printlabels">print your own labels in Microsoft Word here</a>.</p>
+<p><strong>Open Office - </strong>Go to 'File' - 'New' - 'Labels' and when the window opens hit the 'Format' tab and set the figures for your particular labels, hit 'Save' and a template is generated on which you can prepare the names and addresses, etc.</p>
+<p>These are the most popular programs for printing labels. They work well and give consistently good results. If you need more help, we can <a href="index.php?main_page=index&cPath=3">print labels for you</a>.</p>
+<p>&nbsp;</p>
+
+<h3>I'm having trouble with the template printing margins, any tips?<a name="qMargins"></a></h3>
+<p>If you are having difficulty with labels that are not printing properly, one of the reasons may be that the labels around the edge fall outside of the print area of your printer.</p>
+<p>Most printers have a borderless mode which can be turned on or off, though most are turned off by default. You might want to try to switch the borderless mode on, if your printer supports borderless mode.</p>
+<p>One way to check is to do a print preview in the Label Designer. If part your labels fall outside the red line, that is the problem. Switching on your borderless mode is the solution to that problem.</p>
+<p>&nbsp;</p>
+
+<h3>Are gloss white labels suitable for inkjet printers?<a name="q11"></a></h3>
+<p>Most inkjet printers can't print on to gloss surfaces, because the ink won't dry properly and then smudges easily. Our range of matt labels, which is available in a wide variety of colours, is well suited to inkjet printers.</p>
+<p>Alternatively, you can use a laser printer or a photocopier to print on to our gloss white labels. All of our extensive range of shapes is available in white matt and gloss.</p>
+<p>&nbsp;</p>
+
+<h3>I have a colour laser printer.<a name="qLaser"></a></h3>
+<p>Our white gloss permanent paper labels are ideal for your purpose. They are a fine quality paper label with a high level of whiteness and excellent permanent adhesive qualities. They are available in any of the more than 160 different label shapes we offer, including a single full size A4 label per sheet. This would be ideal for you if you want to cut label shapes yourself.</p>
+<p>These labels are designed for laser printers. You can use them with confidence in your colour laser printer.</p>
+<p>&nbsp;</p>
+
+<p class="alignCenter">*     *     *     *     *</p>
+<h4>We have the largest range of self-adhesive labels in the world! If you can't find what you want, please <a href="index.php?main_page=contact_us">contact us</a> so we can quote for you.</h4>
+<p>&nbsp;</p>

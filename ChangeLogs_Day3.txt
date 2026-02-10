@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+001 Chintan Desai   2011/11/15      Desc - Fix issue with GST calculation while using discount coupons
+                                    File - /includes/modules/order_total/ot_coupon.php
+				    Ref  - http://www.zen-cart.com/forum/showthread.php?t=54847&page=5
+---------------------------------------------------------------------------------------------------

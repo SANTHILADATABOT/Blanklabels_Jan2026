@@ -1,0 +1,1623 @@
+"severity","timestamp","ip_address","admin_user","page_accessed","parameters","flagged","attention","logmessage","postdata"
+"warning","2024-06-11 16:24:50","59.154.93.114","15 ITSVS","Log reset by {ITSVS[15]}.","","0","","Log reset by {ITSVS[15]}.",""
+"info","2024-06-11 16:24:50","59.154.93.114","15 ITSVS","admin_activity.php","","0","","Accessed page [admin_activity.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-11 16:24:54","59.154.93.114","15 ITSVS","logoff.php","","0","","Accessed page [logoff.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-11 16:24:55","59.154.93.114","0 ","login.php ","","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-11 16:27:43","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-11 16:28:00","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=doe1475596d33969337957abb477f590ba. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => doe1475596d33969337957abb477f590ba<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-06-11 16:28:01","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-11 16:28:23","59.154.93.114","15 ITSVS","logoff.php","","0","","Accessed page [logoff.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-11 16:28:24","59.154.93.114","0 ","login.php ","","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-11 17:42:04","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 08:50:51","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 10:28:05","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 10:28:27","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=do090e2c85a4e51cd1e329d24394f67889. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do090e2c85a4e51cd1e329d24394f67889<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-06-12 10:28:28","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 10:28:33","59.154.93.114","15 ITSVS","modules.php","set=payment","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:01:27","59.154.93.114","0 ","login.php ","camefrom=layout_controller.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:01:38","59.154.93.114","0 ","login.php ITSVS","camefrom=layout_controller.php","0","","Accessed page [login.php] with action=docb119984b0a2a82a3b15654badf3de4b. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => docb119984b0a2a82a3b15654badf3de4b<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-06-12 12:01:39","59.154.93.114","15 ITSVS","layout_controller.php","","0","","Accessed page [layout_controller.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:02:14","59.154.93.114","15 ITSVS","layout_controller.php","cID=159","0","","Accessed page [layout_controller.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:17:53","59.154.93.114","0 ","login.php ","camefrom=layout_controller.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:17:57","59.154.93.114","0 ","login.php ","camefrom=layout_controller.php&cID=159","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:17:59","59.154.93.114","0 ","login.php ","camefrom=layout_controller.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:18:10","59.154.93.114","0 ","login.php ITSVS","camefrom=layout_controller.php","0","","Accessed page [login.php] with action=do6eafb9d80f433eac8bcf3e0ef267eec5. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do6eafb9d80f433eac8bcf3e0ef267eec5<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-06-12 12:18:11","59.154.93.114","15 ITSVS","layout_controller.php","","0","","Accessed page [layout_controller.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:19:21","59.154.93.114","15 ITSVS","template_select.php","","0","","Accessed page [template_select.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:19:33","59.154.93.114","15 ITSVS","banner_manager.php","","0","","Accessed page [banner_manager.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:19:39","59.154.93.114","15 ITSVS","banner_manager.php","page=1&bID=22","0","","Accessed page [banner_manager.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:19:48","59.154.93.114","15 ITSVS","banner_manager.php","page=1&bID=22&action=new","0","","Accessed page [banner_manager.php] with action=new. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:20:11","59.154.93.114","15 ITSVS","banner_manager.php","page=1&action=upd","0","","Accessed page [banner_manager.php] with action=upd. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [banners_id] => 22<br />
+    [status] => 1<br />
+    [banners_open_new_windows] => 0<br />
+    [banners_on_ssl] => 1<br />
+    [banners_title] => Secure Payments<br />
+    [banners_url] => <br />
+    [banners_group] => BL Banners<br />
+    [new_banners_group] => <br />
+    [banners_image_local] => <br />
+    [banners_image_target] => <br />
+    [banners_html_text] => <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"><a href="https://www.paypal.com/au/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/au/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png" alt="Buy now with PayPal" /></a></td></tr></table><!-- PayPal Logo --><br />
+    [banners_sort_order] => 0<br />
+    [date_scheduled] => <br />
+    [expires_date] => <br />
+    [expires_impressions] => <br />
+)<br />
+"
+"info","2024-06-12 12:20:12","59.154.93.114","15 ITSVS","banner_manager.php","page=1&bID=22","0","","Accessed page [banner_manager.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:21:10","59.154.93.114","15 ITSVS","modules.php","set=payment","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:21:13","59.154.93.114","15 ITSVS","modules.php","set=payment&module=eway_rapid","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:21:18","59.154.93.114","15 ITSVS","modules.php","set=payment&module=eway_rapid&action=edit","0","","Accessed page [modules.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:21:28","59.154.93.114","15 ITSVS","modules.php","set=payment&module=eway_rapid&action=save","0","","Accessed page [modules.php] with action=save. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [configuration] => stdClass Object<br />
+        (<br />
+            [MODULE_PAYMENT_EWAYRAPID_STATUS] => False<br />
+            [MODULE_PAYMENT_EWAYRAPID_MODE] => False<br />
+            [MODULE_PAYMENT_EWAYRAPID_USERNAME] => C3AB9ACa6UCm1yilz/vBY71atz6FMwFYZDqrA2/qyvk/cFfCzW4PaRB3gE7AuEMUMIdgxC<br />
+            [MODULE_PAYMENT_EWAYRAPID_PASSWORD] => QRu1SSQk<br />
+            [MODULE_PAYMENT_EWAYRAPID_ORDER_STATUS_ID] => 2<br />
+            [MODULE_PAYMENT_EWAYRAPID_SORT_ORDER] => 1<br />
+            [MODULE_PAYMENT_EWAYRAPID_DEBUGGING] => Off<br />
+        )<br />
+<br />
+    [saveButton_x] => 36<br />
+    [saveButton_y] => 14<br />
+)<br />
+"
+"warning","2024-06-12 12:21:29","59.154.93.114","15 ITSVS","modules.php","set=payment&module=eway_rapid&action=save","1","","This is an automated email from your Zen Cart store to alert you of a change that was just made to your administrative settings: 
+
+NOTE: Admin settings have been CHANGED for the [eway_rapid] module, by your Zen Cart admin user {ITSVS[15]}.
+
+If you did not initiate these changes, it is advisable that you verify the settings immediately.
+
+If you are already aware of these changes, you can ignore this automated email.","stdClass Object<br />
+(<br />
+    [configuration] => stdClass Object<br />
+        (<br />
+            [MODULE_PAYMENT_EWAYRAPID_STATUS] => False<br />
+            [MODULE_PAYMENT_EWAYRAPID_MODE] => False<br />
+            [MODULE_PAYMENT_EWAYRAPID_USERNAME] => C3AB9ACa6UCm1yilz/vBY71atz6FMwFYZDqrA2/qyvk/cFfCzW4PaRB3gE7AuEMUMIdgxC<br />
+            [MODULE_PAYMENT_EWAYRAPID_PASSWORD] => QRu1SSQk<br />
+            [MODULE_PAYMENT_EWAYRAPID_ORDER_STATUS_ID] => 2<br />
+            [MODULE_PAYMENT_EWAYRAPID_SORT_ORDER] => 1<br />
+            [MODULE_PAYMENT_EWAYRAPID_DEBUGGING] => Off<br />
+        )<br />
+<br />
+    [saveButton_x] => 36<br />
+    [saveButton_y] => 14<br />
+)<br />
+"
+"info","2024-06-12 12:21:30","59.154.93.114","15 ITSVS","modules.php","set=payment&module=eway_rapid","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:22:20","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:22:24","59.154.93.114","15 ITSVS","modules.php","set=payment&action=install","0","","Accessed page [modules.php] with action=install. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [module] => cod<br />
+    [installButton_x] => 29<br />
+    [installButton_y] => 10<br />
+)<br />
+"
+"warning","2024-06-12 12:22:25","59.154.93.114","15 ITSVS","modules.php","set=payment&action=install","1","","This is an automated email from your Zen Cart store to alert you of a change that was just made to your administrative settings: 
+
+NOTE: Admin settings have been changed. The [cod] module has been INSTALLED by your Zen Cart admin user {ITSVS[15]}.
+
+If you did not initiate these changes, it is advisable that you verify the settings immediately.
+
+If you are already aware of these changes, you can ignore this automated email.","stdClass Object<br />
+(<br />
+    [module] => cod<br />
+    [installButton_x] => 29<br />
+    [installButton_y] => 10<br />
+)<br />
+"
+"info","2024-06-12 12:22:25","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod&action=edit","0","","Accessed page [modules.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:22:30","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod&action=save","0","","Accessed page [modules.php] with action=save. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [configuration] => stdClass Object<br />
+        (<br />
+            [MODULE_PAYMENT_COD_STATUS] => False<br />
+            [MODULE_PAYMENT_COD_ZONE] => 0<br />
+            [MODULE_PAYMENT_COD_ORDER_STATUS_ID] => 0<br />
+            [MODULE_PAYMENT_COD_SORT_ORDER] => 0<br />
+        )<br />
+<br />
+    [saveButton_x] => 40<br />
+    [saveButton_y] => 10<br />
+)<br />
+"
+"warning","2024-06-12 12:22:31","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod&action=save","1","","This is an automated email from your Zen Cart store to alert you of a change that was just made to your administrative settings: 
+
+NOTE: Admin settings have been CHANGED for the [cod] module, by your Zen Cart admin user {ITSVS[15]}.
+
+If you did not initiate these changes, it is advisable that you verify the settings immediately.
+
+If you are already aware of these changes, you can ignore this automated email.","stdClass Object<br />
+(<br />
+    [configuration] => stdClass Object<br />
+        (<br />
+            [MODULE_PAYMENT_COD_STATUS] => False<br />
+            [MODULE_PAYMENT_COD_ZONE] => 0<br />
+            [MODULE_PAYMENT_COD_ORDER_STATUS_ID] => 0<br />
+            [MODULE_PAYMENT_COD_SORT_ORDER] => 0<br />
+        )<br />
+<br />
+    [saveButton_x] => 40<br />
+    [saveButton_y] => 10<br />
+)<br />
+"
+"info","2024-06-12 12:22:32","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:22:39","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod&action=edit","0","","Accessed page [modules.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:39:45","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:39:57","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=do0af8706447137ee5da16c796660d329a. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do0af8706447137ee5da16c796660d329a<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-06-12 12:39:58","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:40:36","59.154.93.114","15 ITSVS","modules.php","set=payment","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:40:38","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:40:42","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod&action=edit","0","","Accessed page [modules.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:40:48","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod&action=save","0","","Accessed page [modules.php] with action=save. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [configuration] => stdClass Object<br />
+        (<br />
+            [MODULE_PAYMENT_COD_STATUS] => True<br />
+            [MODULE_PAYMENT_COD_ZONE] => 3<br />
+            [MODULE_PAYMENT_COD_ORDER_STATUS_ID] => 2<br />
+            [MODULE_PAYMENT_COD_SORT_ORDER] => 0<br />
+        )<br />
+<br />
+    [saveButton_x] => 50<br />
+    [saveButton_y] => 9<br />
+)<br />
+"
+"warning","2024-06-12 12:40:49","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod&action=save","1","","This is an automated email from your Zen Cart store to alert you of a change that was just made to your administrative settings: 
+
+NOTE: Admin settings have been CHANGED for the [cod] module, by your Zen Cart admin user {ITSVS[15]}.
+
+If you did not initiate these changes, it is advisable that you verify the settings immediately.
+
+If you are already aware of these changes, you can ignore this automated email.","stdClass Object<br />
+(<br />
+    [configuration] => stdClass Object<br />
+        (<br />
+            [MODULE_PAYMENT_COD_STATUS] => True<br />
+            [MODULE_PAYMENT_COD_ZONE] => 3<br />
+            [MODULE_PAYMENT_COD_ORDER_STATUS_ID] => 2<br />
+            [MODULE_PAYMENT_COD_SORT_ORDER] => 0<br />
+        )<br />
+<br />
+    [saveButton_x] => 50<br />
+    [saveButton_y] => 9<br />
+)<br />
+"
+"info","2024-06-12 12:40:49","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 12:49:45","59.154.93.114","15 ITSVS","modules.php","set=payment&module=cod","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-12 13:14:38","59.154.93.114","0 ","login.php ","camefrom=logoff.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 08:54:38","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 09:14:04","59.154.93.114","0 ","login.php ","camefrom=orders.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:10:26","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:10:43","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=do13d61a0b17cd29f2c285a93407954671. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do13d61a0b17cd29f2c285a93407954671<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-06-13 15:11:10","59.154.93.114","0 ","login.php ","","0","","Accessed page [login.php] with action=rs13d61a0b17cd29f2c285a93407954671. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => rs13d61a0b17cd29f2c285a93407954671<br />
+    [admin_name-13d61a0b17cd29f2c285a93407954671] => ITSVS<br />
+)<br />
+"
+"warning","2024-06-13 15:11:11","59.154.93.114","0 ","login.php ","","1","","Account password change saved.","stdClass Object<br />
+(<br />
+    [action] => rs13d61a0b17cd29f2c285a93407954671<br />
+    [admin_name-13d61a0b17cd29f2c285a93407954671] => ITSVS<br />
+)<br />
+"
+"info","2024-06-13 15:11:12","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:11:51","59.154.93.114","15 ITSVS","configuration.php","gID=1","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:12:02","59.154.93.114","15 ITSVS","configuration.php","gID=1&cID=2&action=edit","0","","Accessed page [configuration.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:12:37","59.154.93.114","15 ITSVS","configuration.php","gID=1&cID=2&action=save","0","","Accessed page [configuration.php] with action=save. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [configuration_value] => Power2Print<br />
+    [submitSTORE_OWNER_x] => 35<br />
+    [submitSTORE_OWNER_y] => 9<br />
+)<br />
+"
+"warning","2024-06-13 15:12:38","59.154.93.114","15 ITSVS","configuration.php","gID=1&cID=2&action=save","1","","Configuration setting changed for STORE_OWNER: Power2Print","stdClass Object<br />
+(<br />
+    [configuration_value] => Power2Print<br />
+    [submitSTORE_OWNER_x] => 35<br />
+    [submitSTORE_OWNER_y] => 9<br />
+)<br />
+"
+"info","2024-06-13 15:12:38","59.154.93.114","15 ITSVS","configuration.php","gID=1&cID=2","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:12:51","59.154.93.114","15 ITSVS","configuration.php","gID=5","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:12:57","59.154.93.114","15 ITSVS","configuration.php","gID=12","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:13:14","59.154.93.114","15 ITSVS","configuration.php","gID=13","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:13:22","59.154.93.114","15 ITSVS","configuration.php","gID=18","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:13:26","59.154.93.114","15 ITSVS","configuration.php","gID=19","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:13:33","59.154.93.114","15 ITSVS","configuration.php","gID=20","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:13:41","59.154.93.114","15 ITSVS","configuration.php","gID=25","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:13:46","59.154.93.114","15 ITSVS","configuration.php","gID=30","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:13:55","59.154.93.114","15 ITSVS","configuration.php","gID=31","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:14:16","59.154.93.114","15 ITSVS","profiles.php","","0","","Accessed page [profiles.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:14:20","59.154.93.114","15 ITSVS","template_select.php","","0","","Accessed page [template_select.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:14:28","59.154.93.114","15 ITSVS","newsletters.php","","0","","Accessed page [newsletters.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:14:34","59.154.93.114","15 ITSVS","server_info.php","","0","","Accessed page [server_info.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:14:45","59.154.93.114","15 ITSVS","store_manager.php","","0","","Accessed page [store_manager.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:15:06","59.154.93.114","15 ITSVS","developers_tool_kit.php","","0","","Accessed page [developers_tool_kit.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:15:16","59.154.93.114","15 ITSVS","ezpages.php","","0","","Accessed page [ezpages.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:15:23","59.154.93.114","15 ITSVS","define_pages_editor.php","","0","","Accessed page [define_pages_editor.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:15:37","59.154.93.114","15 ITSVS","sitemapxml.php","","0","","Accessed page [sitemapxml.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:15:47","59.154.93.114","15 ITSVS","addon_url_redirection_manager.php","","0","","Accessed page [addon_url_redirection_manager.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:25:12","59.154.93.114","15 ITSVS","configuration.php","gID=12","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:25:22","59.154.93.114","15 ITSVS","configuration.php","gID=12&cID=265&action=edit","0","","Accessed page [configuration.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:25:32","59.154.93.114","15 ITSVS","configuration.php","gID=12&cID=265","0","","Accessed page [configuration.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-13 15:43:23","59.154.93.114","0 ","login.php ","camefrom=logoff.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-14 08:57:39","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-14 13:31:45","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-17 09:09:07","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-17 09:59:19","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-17 13:05:51","59.154.93.114","0 ","login.php ","camefrom=orders.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-17 15:36:46","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-18 13:49:53","59.154.93.114","0 ","login.php ","camefrom=orders.php&oID=11406&action=edit","0","","Accessed page [login.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-18 13:49:55","59.154.93.114","0 ","login.php Kate","camefrom=orders.php&oID=11406&action=edit","0","","Accessed page [login.php] with action=do6f39fe14de732278cb6faef92914a00b. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do6f39fe14de732278cb6faef92914a00b<br />
+    [admin_name] => Kate<br />
+)<br />
+"
+"info","2024-06-18 13:49:56","59.154.93.114","3 Kate","orders.php","oID=11406&action=edit","0","","Accessed page [orders.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-19 08:51:01","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-19 08:53:22","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-19 17:13:23","59.154.93.114","0 ","login.php ","camefrom=orders.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-20 08:54:25","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-20 09:19:44","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-21 09:10:48","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-24 08:47:38","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-24 08:53:13","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-24 09:39:56","59.154.93.114","0 ","login.php ","camefrom=orders.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-25 09:02:30","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-25 11:45:39","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 08:50:18","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 09:20:30","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:03:01","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:21:59","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:22:12","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=do816693ecdd718dfabb7263255fa4151a. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do816693ecdd718dfabb7263255fa4151a<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-06-26 10:22:13","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:22:30","59.154.93.114","15 ITSVS","coupon_admin.php","","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:22:39","59.154.93.114","15 ITSVS","coupon_admin.php","page=1&cid=772&action=new","0","","Accessed page [coupon_admin.php] with action=new. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:27:15","59.154.93.114","15 ITSVS","coupon_admin.php","action=update&oldaction=new&cid=772&page=1","0","","Accessed page [coupon_admin.php] with action=update. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => 20% off for Instagram followers<br />
+        )<br />
+<br />
+    [coupon_amount] => 20%<br />
+    [coupon_min_order] => <br />
+    [coupon_code] => iuseBLS<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_startdate_day] => 26<br />
+    [coupon_startdate_month] => 6<br />
+    [coupon_startdate_year] => 2024<br />
+    [coupon_finishdate_day] => 30<br />
+    [coupon_finishdate_month] => 6<br />
+    [coupon_finishdate_year] => 2024<br />
+    [coupon_zone_restriction] => 3<br />
+)<br />
+"
+"info","2024-06-26 10:27:32","59.154.93.114","15 ITSVS","coupon_admin.php","action=update_confirm&oldaction=new&cid=772&page=1","0","","Accessed page [coupon_admin.php] with action=update_confirm. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => 20% off for Instagram followers<br />
+        )<br />
+<br />
+    [coupon_amount] => 20%<br />
+    [coupon_min_order] => <br />
+    [coupon_free_ship] => <br />
+    [coupon_code] => iuseBLS<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_products] => <br />
+    [coupon_categories] => <br />
+    [coupon_startdate] => 2024-06-26<br />
+    [coupon_finishdate] => 2024-06-30<br />
+    [coupon_zone_restriction] => 3<br />
+)<br />
+"
+"info","2024-06-26 10:27:33","59.154.93.114","15 ITSVS","coupon_admin.php","cid=861&page=1","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:31:28","59.154.93.114","15 ITSVS","coupon_restrict.php","cid=861&page=2","0","","Accessed page [coupon_restrict.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:31:39","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:31:46","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucheredit&cid=861&page=2","0","","Accessed page [coupon_admin.php] with action=voucheredit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:31:51","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:31:55","59.154.93.114","15 ITSVS","coupon_restrict.php","cid=861&page=2","0","","Accessed page [coupon_restrict.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 10:32:10","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:41:10","59.154.93.114","0 ","login.php ","camefrom=modules.php&set=ordertotal","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:41:23","59.154.93.114","0 ","login.php ITSVS","camefrom=modules.php&set=ordertotal","0","","Accessed page [login.php] with action=dobba86d29b304789f824a072ba9e87d40. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => dobba86d29b304789f824a072ba9e87d40<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-06-26 11:41:24","59.154.93.114","15 ITSVS","modules.php","set=ordertotal","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:41:38","59.154.93.114","15 ITSVS","modules.php","set=ordertotal&module=ot_coupon","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:41:40","59.154.93.114","15 ITSVS","modules.php","set=ordertotal&module=ot_coupon&action=edit","0","","Accessed page [modules.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:42:07","59.154.93.114","15 ITSVS","modules.php","set=ordertotal&module=ot_coupon&action=save","0","","Accessed page [modules.php] with action=save. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [configuration] => stdClass Object<br />
+        (<br />
+            [MODULE_ORDER_TOTAL_COUPON_STATUS] => true<br />
+            [MODULE_ORDER_TOTAL_COUPON_SORT_ORDER] => 180<br />
+            [MODULE_ORDER_TOTAL_COUPON_INC_SHIPPING] => false<br />
+            [MODULE_ORDER_TOTAL_COUPON_INC_TAX] => false<br />
+            [MODULE_ORDER_TOTAL_COUPON_CALC_TAX] => Standard<br />
+            [MODULE_ORDER_TOTAL_COUPON_TAX_CLASS] => 0<br />
+        )<br />
+<br />
+    [saveButton_x] => 45<br />
+    [saveButton_y] => 12<br />
+)<br />
+"
+"warning","2024-06-26 11:42:08","59.154.93.114","15 ITSVS","modules.php","set=ordertotal&module=ot_coupon&action=save","1","","This is an automated email from your Zen Cart store to alert you of a change that was just made to your administrative settings: 
+
+NOTE: Admin settings have been CHANGED for the [ot_coupon] module, by your Zen Cart admin user {ITSVS[15]}.
+
+If you did not initiate these changes, it is advisable that you verify the settings immediately.
+
+If you are already aware of these changes, you can ignore this automated email.","stdClass Object<br />
+(<br />
+    [configuration] => stdClass Object<br />
+        (<br />
+            [MODULE_ORDER_TOTAL_COUPON_STATUS] => true<br />
+            [MODULE_ORDER_TOTAL_COUPON_SORT_ORDER] => 180<br />
+            [MODULE_ORDER_TOTAL_COUPON_INC_SHIPPING] => false<br />
+            [MODULE_ORDER_TOTAL_COUPON_INC_TAX] => false<br />
+            [MODULE_ORDER_TOTAL_COUPON_CALC_TAX] => Standard<br />
+            [MODULE_ORDER_TOTAL_COUPON_TAX_CLASS] => 0<br />
+        )<br />
+<br />
+    [saveButton_x] => 45<br />
+    [saveButton_y] => 12<br />
+)<br />
+"
+"info","2024-06-26 11:42:08","59.154.93.114","15 ITSVS","modules.php","set=ordertotal&module=ot_coupon","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:42:10","59.154.93.114","15 ITSVS","modules.php","set=ordertotal&module=ot_coupon&action=edit","0","","Accessed page [modules.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:42:25","59.154.93.114","15 ITSVS","modules.php","set=ordertotal&module=ot_coupon","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:42:42","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:42:46","59.154.93.114","15 ITSVS","modules.php","set=ordertotal&module=ot_coupon","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:50:00","59.154.93.114","15 ITSVS","coupon_admin.php","","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:50:14","59.154.93.114","15 ITSVS","coupon_admin.php","page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:50:26","59.154.93.114","15 ITSVS","coupon_admin.php","page=1","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:50:37","59.154.93.114","15 ITSVS","coupon_admin.php","page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:50:45","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:50:48","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucheredit&cid=861&page=2","0","","Accessed page [coupon_admin.php] with action=voucheredit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:50:58","59.154.93.114","15 ITSVS","coupon_admin.php","action=update&oldaction=voucheredit&cid=861&page=2","0","","Accessed page [coupon_admin.php] with action=update. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => 20% off for Instagram followers<br />
+        )<br />
+<br />
+    [coupon_amount] => 20.0000%<br />
+    [coupon_min_order] => 0.0000<br />
+    [coupon_code] => iuseBLS<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_startdate_day] => 26<br />
+    [coupon_startdate_month] => 6<br />
+    [coupon_startdate_year] => 2024<br />
+    [coupon_finishdate_day] => 1<br />
+    [coupon_finishdate_month] => 7<br />
+    [coupon_finishdate_year] => 2024<br />
+    [coupon_zone_restriction] => 3<br />
+)<br />
+"
+"info","2024-06-26 11:51:02","59.154.93.114","15 ITSVS","coupon_admin.php","action=update_confirm&oldaction=voucheredit&cid=861&page=2","0","","Accessed page [coupon_admin.php] with action=update_confirm. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => 20% off for Instagram followers<br />
+        )<br />
+<br />
+    [coupon_amount] => 20.0000%<br />
+    [coupon_min_order] => 0.0000<br />
+    [coupon_free_ship] => <br />
+    [coupon_code] => iuseBLS<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_products] => <br />
+    [coupon_categories] => <br />
+    [coupon_startdate] => 2024-06-26<br />
+    [coupon_finishdate] => 2024-07-01<br />
+    [coupon_zone_restriction] => 3<br />
+)<br />
+"
+"info","2024-06-26 11:51:03","59.154.93.114","15 ITSVS","coupon_admin.php","cid=861&page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:51:06","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucheredit&cid=861&page=2","0","","Accessed page [coupon_admin.php] with action=voucheredit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:56:38","59.154.93.114","15 ITSVS","logoff.php","","0","","Accessed page [logoff.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-26 11:56:39","59.154.93.114","0 ","login.php ","","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-27 08:58:39","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-06-28 08:50:34","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-01 08:53:23","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-02 08:58:58","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-04 09:26:25","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-04 09:34:09","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-05 08:47:55","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-05 09:50:17","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:46:56","59.154.93.114","0 ","login.php ","camefrom=orders.php&oID=11406&action=edit","0","","Accessed page [login.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:46:59","59.154.93.114","0 ","login.php Kate","camefrom=orders.php&oID=11406&action=edit","0","","Accessed page [login.php] with action=do092e4fa72fd5e6856f7b251f2847dcb6. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do092e4fa72fd5e6856f7b251f2847dcb6<br />
+    [admin_name] => Kate<br />
+)<br />
+"
+"info","2024-07-08 16:47:00","59.154.93.114","3 Kate","orders.php","oID=11406&action=edit","0","","Accessed page [orders.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:47:05","59.154.93.114","3 Kate","customers.php","","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:47:19","59.154.93.114","3 Kate","customers.php","search=ambersceats","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:47:29","59.154.93.114","3 Kate","customers.php","action=list_addresses&cID=6609&page=1","0","","Accessed page [customers.php] with action=list_addresses. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:47:41","59.154.93.114","3 Kate","customers.php","action=list_addresses_done&cID=6609&page=1","0","","Accessed page [customers.php] with action=list_addresses_done. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:47:42","59.154.93.114","3 Kate","customers.php","cID=6609&page=1","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:48:10","59.154.93.114","3 Kate","customers.php","page=60&cID=6609&action=pwreset","0","","Accessed page [customers.php] with action=pwreset. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:48:22","59.154.93.114","3 Kate","customers.php","page=60&cID=6609","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:48:25","59.154.93.114","3 Kate","customers.php","page=60&cID=6609&action=edit","0","","Accessed page [customers.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-08 16:50:16","59.154.93.114","0 ","login.php ","camefrom=orders.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-09 08:58:36","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-09 09:18:04","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-10 09:09:40","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-10 14:16:37","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-10 15:55:21","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-11 08:59:36","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-15 08:56:20","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-16 08:49:07","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-18 09:08:01","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-19 08:44:24","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-22 09:31:06","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-22 09:39:11","59.154.93.114","0 ","login.php ","camefrom=orders.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 08:58:32","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:40:59","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:41:45","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=do01a1f7b488265b07ba6f2097ff55ef00. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do01a1f7b488265b07ba6f2097ff55ef00<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-07-23 15:41:46","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:42:00","59.154.93.114","15 ITSVS","coupon_admin.php","","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:42:10","59.154.93.114","15 ITSVS","coupon_admin.php","page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:42:23","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:42:29","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861&action=new","0","","Accessed page [coupon_admin.php] with action=new. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:43:15","59.154.93.114","15 ITSVS","coupon_admin.php","action=update&oldaction=new&cid=861&page=2","0","","Accessed page [coupon_admin.php] with action=update. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram2<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => <br />
+        )<br />
+<br />
+    [coupon_amount] => 15%<br />
+    [coupon_min_order] => <br />
+    [coupon_code] => ifollowbls<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_startdate_day] => 24<br />
+    [coupon_startdate_month] => 7<br />
+    [coupon_startdate_year] => 2024<br />
+    [coupon_finishdate_day] => 30<br />
+    [coupon_finishdate_month] => 9<br />
+    [coupon_finishdate_year] => 2024<br />
+    [coupon_zone_restriction] => 0<br />
+)<br />
+"
+"info","2024-07-23 15:43:46","59.154.93.114","15 ITSVS","coupon_admin.php","action=update_confirm&oldaction=new&cid=861&page=2","0","","Accessed page [coupon_admin.php] with action=update_confirm. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram2<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => <br />
+        )<br />
+<br />
+    [coupon_amount] => 15%<br />
+    [coupon_min_order] => <br />
+    [coupon_free_ship] => <br />
+    [coupon_code] => ifollowbls<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_products] => <br />
+    [coupon_categories] => <br />
+    [coupon_startdate] => 2024-07-24<br />
+    [coupon_finishdate] => 2024-09-30<br />
+    [coupon_zone_restriction] => 0<br />
+)<br />
+"
+"info","2024-07-23 15:43:47","59.154.93.114","15 ITSVS","coupon_admin.php","cid=862&page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:43:58","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=voucheredit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:44:04","59.154.93.114","15 ITSVS","coupon_admin.php","action=update&oldaction=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=update. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram Follow<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => <br />
+        )<br />
+<br />
+    [coupon_amount] => 15.0000%<br />
+    [coupon_min_order] => 0.0000<br />
+    [coupon_code] => ifollowbls<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_startdate_day] => 24<br />
+    [coupon_startdate_month] => 7<br />
+    [coupon_startdate_year] => 2024<br />
+    [coupon_finishdate_day] => 30<br />
+    [coupon_finishdate_month] => 9<br />
+    [coupon_finishdate_year] => 2024<br />
+    [coupon_zone_restriction] => 0<br />
+)<br />
+"
+"info","2024-07-23 15:44:06","59.154.93.114","15 ITSVS","coupon_admin.php","action=update_confirm&oldaction=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=update_confirm. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram Follow<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => <br />
+        )<br />
+<br />
+    [coupon_amount] => 15.0000%<br />
+    [coupon_min_order] => 0.0000<br />
+    [coupon_free_ship] => <br />
+    [coupon_code] => ifollowbls<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_products] => <br />
+    [coupon_categories] => <br />
+    [coupon_startdate] => 2024-07-24<br />
+    [coupon_finishdate] => 2024-09-30<br />
+    [coupon_zone_restriction] => 0<br />
+)<br />
+"
+"info","2024-07-23 15:44:07","59.154.93.114","15 ITSVS","coupon_admin.php","cid=862&page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:44:14","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:44:40","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=862","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:45:14","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=voucheredit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:45:19","59.154.93.114","15 ITSVS","coupon_admin.php","action=update&oldaction=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=update. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram Follow<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => <br />
+        )<br />
+<br />
+    [coupon_amount] => 15.0000%<br />
+    [coupon_min_order] => 0.0000<br />
+    [coupon_code] => ifollowbls<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_startdate_day] => 24<br />
+    [coupon_startdate_month] => 7<br />
+    [coupon_startdate_year] => 2024<br />
+    [coupon_finishdate_day] => 30<br />
+    [coupon_finishdate_month] => 9<br />
+    [coupon_finishdate_year] => 2024<br />
+    [coupon_zone_restriction] => 3<br />
+)<br />
+"
+"info","2024-07-23 15:45:22","59.154.93.114","15 ITSVS","coupon_admin.php","action=update_confirm&oldaction=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=update_confirm. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram Follow<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => <br />
+        )<br />
+<br />
+    [coupon_amount] => 15.0000%<br />
+    [coupon_min_order] => 0.0000<br />
+    [coupon_free_ship] => <br />
+    [coupon_code] => ifollowbls<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_products] => <br />
+    [coupon_categories] => <br />
+    [coupon_startdate] => 2024-07-24<br />
+    [coupon_finishdate] => 2024-09-30<br />
+    [coupon_zone_restriction] => 3<br />
+)<br />
+"
+"info","2024-07-23 15:45:22","59.154.93.114","15 ITSVS","coupon_admin.php","cid=862&page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:45:25","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:45:27","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucheredit&cid=861&page=2","0","","Accessed page [coupon_admin.php] with action=voucheredit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:45:34","59.154.93.114","15 ITSVS","coupon_admin.php","cid=861&page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:45:37","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=862","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:45:40","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=voucheredit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:46:10","59.154.93.114","15 ITSVS","coupon_admin.php","action=update&oldaction=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=update. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram Follow<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => 15% off for customers who follow us on Instagram<br />
+        )<br />
+<br />
+    [coupon_amount] => 15.0000%<br />
+    [coupon_min_order] => 0.0000<br />
+    [coupon_code] => ifollowbls<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_startdate_day] => 24<br />
+    [coupon_startdate_month] => 7<br />
+    [coupon_startdate_year] => 2024<br />
+    [coupon_finishdate_day] => 30<br />
+    [coupon_finishdate_month] => 9<br />
+    [coupon_finishdate_year] => 2024<br />
+    [coupon_zone_restriction] => 3<br />
+)<br />
+"
+"info","2024-07-23 15:46:12","59.154.93.114","15 ITSVS","coupon_admin.php","action=update_confirm&oldaction=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=update_confirm. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram Follow<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => 15% off for customers who follow us on Instagram<br />
+        )<br />
+<br />
+    [coupon_amount] => 15.0000%<br />
+    [coupon_min_order] => 0.0000<br />
+    [coupon_free_ship] => <br />
+    [coupon_code] => ifollowbls<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_products] => <br />
+    [coupon_categories] => <br />
+    [coupon_startdate] => 2024-07-24<br />
+    [coupon_finishdate] => 2024-09-30<br />
+    [coupon_zone_restriction] => 3<br />
+)<br />
+"
+"info","2024-07-23 15:46:13","59.154.93.114","15 ITSVS","coupon_admin.php","cid=862&page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:46:41","59.154.93.114","15 ITSVS","logoff.php","","0","","Accessed page [logoff.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:46:42","59.154.93.114","0 ","login.php ","","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:47:04","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:47:13","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=docdf82b2fdb52323e3caf6da450c06311. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => docdf82b2fdb52323e3caf6da450c06311<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-07-23 15:47:14","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:47:29","59.154.93.114","15 ITSVS","coupon_admin.php","","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:47:33","59.154.93.114","15 ITSVS","coupon_admin.php","page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:47:38","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=862","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:47:43","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=voucheredit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:47:46","59.154.93.114","15 ITSVS","coupon_admin.php","action=update&oldaction=voucheredit&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=update. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [coupon_name] => stdClass Object<br />
+        (<br />
+            [1] => BlankLabels Instagram Follow<br />
+        )<br />
+<br />
+    [coupon_desc] => stdClass Object<br />
+        (<br />
+            [1] => 15% off for customers who follow us on Instagram<br />
+        )<br />
+<br />
+    [coupon_amount] => 15.0000%<br />
+    [coupon_min_order] => 0.0000<br />
+    [coupon_code] => ifollowbls<br />
+    [coupon_uses_coupon] => 0<br />
+    [coupon_uses_user] => 1<br />
+    [coupon_startdate_day] => 24<br />
+    [coupon_startdate_month] => 7<br />
+    [coupon_startdate_year] => 2024<br />
+    [coupon_finishdate_day] => 30<br />
+    [coupon_finishdate_month] => 9<br />
+    [coupon_finishdate_year] => 2024<br />
+    [coupon_zone_restriction] => 3<br />
+)<br />
+"
+"info","2024-07-23 15:51:07","59.154.93.114","15 ITSVS","logoff.php","","0","","Accessed page [logoff.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-23 15:51:08","59.154.93.114","0 ","login.php ","","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-24 08:53:47","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-25 08:48:18","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-25 16:44:43","59.154.93.114","0 ","login.php ","camefrom=orders.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-26 09:00:14","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-29 09:22:56","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-29 09:24:10","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-07-30 08:52:54","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-02 09:09:11","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 09:03:17","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:54:39","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:54:42","59.154.93.114","0 ","login.php Kate","camefrom=index.php","0","","Accessed page [login.php] with action=dobc84b522bd4f2be99c0610531e547b68. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => dobc84b522bd4f2be99c0610531e547b68<br />
+    [admin_name] => Kate<br />
+)<br />
+"
+"info","2024-08-07 15:54:42","59.154.93.114","3 Kate","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:54:46","59.154.93.114","3 Kate","customers.php","","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:55:04","59.154.93.114","3 Kate","customers.php","search=joan%20horne","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:55:09","59.154.93.114","3 Kate","customers.php","","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:55:15","59.154.93.114","3 Kate","customers.php","search=joan","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:55:16","59.154.93.114","3 Kate","customers.php","search=joan","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:55:58","59.154.93.114","3 Kate","customers.php","search=horne","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:56:09","59.154.93.114","3 Kate","customers.php","search=horne&page=1&cID=6421","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:56:16","59.154.93.114","3 Kate","customers.php","page=1&cID=6421&action=pwreset","0","","Accessed page [customers.php] with action=pwreset. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:56:32","59.154.93.114","3 Kate","customers.php","page=71&action=pwdresetconfirm","0","","Accessed page [customers.php] with action=pwdresetconfirm. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [cID] => 6421<br />
+    [newpassword] => Joan<br />
+    [newpasswordConfirm] => Joan<br />
+)<br />
+"
+"info","2024-08-07 15:56:34","59.154.93.114","3 Kate","customers.php","page=71&cID=6421","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:56:39","59.154.93.114","3 Kate","customers.php","page=71&cID=6421&action=pwreset","0","","Accessed page [customers.php] with action=pwreset. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-07 15:56:56","59.154.93.114","3 Kate","customers.php","page=71&action=pwdresetconfirm","0","","Accessed page [customers.php] with action=pwdresetconfirm. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [cID] => 6421<br />
+    [newpassword] => Joanhorne<br />
+    [newpasswordConfirm] => Joanhorne<br />
+)<br />
+"
+"info","2024-08-07 15:56:58","59.154.93.114","3 Kate","customers.php","page=71&cID=6421","0","","Accessed page [customers.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-13 09:20:24","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-14 08:52:45","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-14 08:58:57","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 08:46:35","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:46:23","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:46:43","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=do4fb84a918a18d4d3a8a327e93c44508c. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do4fb84a918a18d4d3a8a327e93c44508c<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"warning","2024-08-15 17:46:44","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","1","","Failed admin login attempt:  ITSVS","stdClass Object<br />
+(<br />
+    [action] => do4fb84a918a18d4d3a8a327e93c44508c<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-08-15 17:46:56","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=do4fb84a918a18d4d3a8a327e93c44508c. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do4fb84a918a18d4d3a8a327e93c44508c<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-08-15 17:46:57","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:47:01","59.154.93.114","15 ITSVS","coupon_admin.php","","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:47:12","59.154.93.114","15 ITSVS","coupon_admin.php","page=2","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:47:28","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=862","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:47:44","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucherreport&cid=862&page=2","0","","Accessed page [coupon_admin.php] with action=voucherreport. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:47:57","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=862","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:48:16","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:48:20","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucherreport&cid=861&page=2","0","","Accessed page [coupon_admin.php] with action=voucherreport. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:48:22","59.154.93.114","15 ITSVS","coupon_admin.php","page=2&cid=861","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:48:37","59.154.93.114","15 ITSVS","coupon_admin.php","page=1","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:48:51","59.154.93.114","15 ITSVS","coupon_admin.php","page=1&cid=5","0","","Accessed page [coupon_admin.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:48:54","59.154.93.114","15 ITSVS","coupon_admin.php","action=voucherreport&cid=5&page=1","0","","Accessed page [coupon_admin.php] with action=voucherreport. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:49:05","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:52:46","59.154.93.114","15 ITSVS","logoff.php","","0","","Accessed page [logoff.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-15 17:52:47","59.154.93.114","0 ","login.php ","","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-16 08:43:55","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-19 08:58:49","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-20 08:52:33","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-20 09:15:16","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 08:44:27","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 10:05:25","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 10:06:22","59.154.93.114","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=do8d289d94eb1afaa956ba001266923837. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do8d289d94eb1afaa956ba001266923837<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-08-21 10:06:23","59.154.93.114","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 10:06:28","59.154.93.114","15 ITSVS","admin_activity.php","","0","","Accessed page [admin_activity.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 10:06:38","59.154.93.114","15 ITSVS","admin_activity.php","action=save","0","","Accessed page [admin_activity.php] with action=save. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [filter] => 0<br />
+    [format] => 1<br />
+    [filename] => admin_activity_archive_2024-08-21_10-06-28.csv<br />
+)<br />
+"
+"warning","2024-08-21 10:06:39","59.154.93.114","15 ITSVS","admin_activity.php","action=save","1","","Admin Activity Log accessed. Output format: CSV. Filter: all. (Download to browser)","stdClass Object<br />
+(<br />
+    [filter] => 0<br />
+    [format] => 1<br />
+    [filename] => admin_activity_archive_2024-08-21_10-06-28.csv<br />
+)<br />
+"
+"info","2024-08-21 10:06:42","59.154.93.114","15 ITSVS","admin_activity.php","action=save","0","","Accessed page [admin_activity.php] with action=save. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [filter] => 0<br />
+    [format] => 1<br />
+    [filename] => admin_activity_archive_2024-08-21_10-06-28.csv<br />
+    [savetofile] => 1<br />
+)<br />
+"
+"warning","2024-08-21 10:06:42","59.154.93.114","15 ITSVS","admin_activity.php","action=save","1","","Admin Activity Log accessed. Output format: CSV. Filter: all. (SaveToFile)","stdClass Object<br />
+(<br />
+    [filter] => 0<br />
+    [format] => 1<br />
+    [filename] => admin_activity_archive_2024-08-21_10-06-28.csv<br />
+    [savetofile] => 1<br />
+)<br />
+"

@@ -1,0 +1,24 @@
+# <IfModule mod_headers.c>
+#   <FilesMatch "\.pdf$">
+#     Header always unset Content-Disposition
+#     Header always set Content-Disposition "inline; filename=\".pdf\""
+#   </FilesMatch>
+# </IfModule>
+
+
+# filename=\"templates.pdf\""
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # Capture the requested PDF filename into env var FNAME
+  RewriteCond %{REQUEST_URI} /([^/]+\.pdf)$
+  RewriteRule .* - [E=FNAME:%1]
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.pdf$">
+    Header always unset Content-Disposition
+    # Use the env var FNAME as the filename in the header
+    Header always set Content-Disposition "inline; filename=\"%{FNAME}e\""
+  </FilesMatch>
+</IfModule>

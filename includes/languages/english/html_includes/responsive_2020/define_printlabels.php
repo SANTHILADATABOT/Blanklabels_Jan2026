@@ -1,0 +1,31 @@
+<title>How to print your own labels</title>
+
+<p>There are a 3 different ways to print your labels.</p>
+<ol>
+    <li><a href="index.php?main_page=printlabels#templates">Using our templates through graphics software</a></li>
+    <li><a href="index.php?main_page=printlabels#word">Setting up margins to print through Microsoft Word</a></li>
+    <li><a href="index.php?main_page=printlabels#printforme">Let us print them for you</a></li>
+</ol>
+<p>&nbsp;</p>
+
+<h2>1. Printing labels using the template in graphics software<a name="templates"></a></h2>
+<p>If you have graphics software such as Adobe Illustrator we have PDF templates which can be used to set up your labels. The templates can be found on the product page of your size or on <a href="index.php?main_page=labeltemplates">this complete list.</a></p>
+
+<h2>2. How to set up you labels to print with Microsoft Word<a name="word"></a></h2>
+<p>Every version of Microsoft Word involves a slightly different process to set up your label. The most common method is listed below;</p>
+<p>Step 1. Navigate to the ‘Mailings’ tab</p>
+<p>Step 2. Select ‘Labels’</p>
+<img class="imgr" alt="Navigate to the Mailings tab and select Labels" src="images/word-setup/mailings-labels.png" style="width:100%; max-width:520px;">
+<p>Step 3. Select ‘Options’</p>
+<img class="imgr" alt="Click the Options button" src="images/word-setup/identical-labels-options.png" style="width:100%; max-width:475px;">
+<p>Step 4. Select ‘New Label’</p>
+<img class="imgr" alt="Click the New Label button" src="images/word-setup/label-options.png" style="width:100%; max-width:475px;">
+<p>Step 5. Input all details of your label size (margins, pitches, label height/width, number across/down). All details are listed on our website when selecting your label from our range</p>
+<img class="imgr" alt="Click the Options button" src="images/word-setup/label-details.png" style="width:100%; max-width:379px;">
+<p>Step 6. Change page size to ‘Custom’ and input - Width 210mm, Height 295.2mm</p>
+<p>Step 7. Select ‘OK’ – ‘OK’ again then ‘New Document’</p>
+<img class="imgr" alt="Click the Options button" src="images/word-setup/identical-labels-new-document.png" style="width:100%; max-width:475px;">
+<p>This will create a new page with your label borders and margins displayed. If you get stuck, please call us!</p>
+
+<h2>3. Can you print my labels for me?<a name="printforme"></a></h2>
+<p>If printing them yourself seems a bit difficult, or the stock you want can't go through your printer, we can print your labels for you. Blanklabels is presented to you by Power2Print – a multi service printing company. With 10 different print methods available we have the capacity to print on any stock. <a href="index.php?main_page=contact_us">Get in touch with us</a> and our friendly staff will help you out.</p>

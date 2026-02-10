@@ -1,0 +1,308 @@
+"severity","timestamp","ip_address","admin_user","page_accessed","parameters","flagged","attention","logmessage","postdata"
+"warning","2024-08-21 10:06:51","59.154.93.114","15 ITSVS","Log reset by {ITSVS[15]}.","","0","","Log reset by {ITSVS[15]}.",""
+"info","2024-08-21 10:06:51","59.154.93.114","15 ITSVS","admin_activity.php","","0","","Accessed page [admin_activity.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 10:07:13","59.154.93.114","15 ITSVS","modules.php","set=payment","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 10:07:34","59.154.93.114","15 ITSVS","modules.php","set=payment&module=eway_rapid","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 10:07:44","59.154.93.114","15 ITSVS","modules.php","set=payment&module=paypalwpp","0","","Accessed page [modules.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 10:16:39","59.154.93.114","15 ITSVS","logoff.php","","0","","Accessed page [logoff.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-21 10:16:40","59.154.93.114","0 ","login.php ","","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-22 09:01:38","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-23 09:00:10","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-26 09:02:34","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-26 13:57:21","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-27 09:27:19","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-29 08:38:47","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-08-30 08:34:03","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-02 09:09:13","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-03 08:54:34","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-03 17:41:00","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-04 08:58:02","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-05 09:03:41","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-06 08:27:17","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-09 08:53:52","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-10 09:38:00","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-10 16:23:48","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-10 16:38:59","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-12 09:45:51","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-13 09:42:51","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-16 08:59:57","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-17 08:34:32","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-17 08:36:52","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-18 08:47:49","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-19 08:49:16","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-19 09:47:48","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-19 09:48:32","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-20 08:47:44","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-23 09:01:35","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-24 08:52:35","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-24 17:45:15","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-25 08:47:53","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-25 09:02:24","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-30 08:56:14","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-09-30 09:16:36","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-01 08:46:23","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-01 08:52:23","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-02 09:19:40","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-02 09:59:25","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-02 10:34:42","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-03 08:57:53","59.154.93.114","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-07 08:59:59","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-08 08:36:31","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-10 08:52:07","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-11 08:36:34","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-14 09:05:43","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-15 08:57:50","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-16 08:43:25","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-17 08:49:11","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-17 08:52:53","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-18 08:50:17","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-18 09:14:00","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-18 12:06:38","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-18 13:31:33","59.154.130.138","0 ","login.php ","camefrom=orders.php&oID=11406&action=edit","0","","Accessed page [login.php] with action=edit. Review page_parameters and postdata for details.","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-21 09:00:38","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-21 11:16:16","59.154.130.138","0 ","login.php ","camefrom=index.php","0","","Accessed page [login.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-21 11:18:51","59.154.130.138","0 ","login.php ITSVS","camefrom=index.php","0","","Accessed page [login.php] with action=do0cc14825ebc07ed7dd07a561953e8e5b. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => do0cc14825ebc07ed7dd07a561953e8e5b<br />
+    [admin_name] => ITSVS<br />
+)<br />
+"
+"info","2024-10-21 11:19:41","59.154.130.138","0 ","login.php ","","0","","Accessed page [login.php] with action=rs0cc14825ebc07ed7dd07a561953e8e5b. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [action] => rs0cc14825ebc07ed7dd07a561953e8e5b<br />
+    [admin_name-0cc14825ebc07ed7dd07a561953e8e5b] => ITSVS<br />
+)<br />
+"
+"warning","2024-10-21 11:19:42","59.154.130.138","0 ","login.php ","","1","","Account password change saved.","stdClass Object<br />
+(<br />
+    [action] => rs0cc14825ebc07ed7dd07a561953e8e5b<br />
+    [admin_name-0cc14825ebc07ed7dd07a561953e8e5b] => ITSVS<br />
+)<br />
+"
+"info","2024-10-21 11:19:42","59.154.130.138","15 ITSVS","index.php","","0","","Accessed page [index.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-21 11:19:51","59.154.130.138","15 ITSVS","admin_activity.php","","0","","Accessed page [admin_activity.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-21 11:20:12","59.154.130.138","15 ITSVS","admin_activity.php","action=save","0","","Accessed page [admin_activity.php] with action=save. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [filter] => 0<br />
+    [format] => 0<br />
+    [filename] => admin_activity_archive_2024-10-21_11-19-52.csv<br />
+    [savetofile] => 1<br />
+)<br />
+"
+"warning","2024-10-21 11:20:13","59.154.130.138","15 ITSVS","admin_activity.php","action=save","1","","Admin Activity Log accessed. Output format: HTML. Filter: all. (SaveToFile)","stdClass Object<br />
+(<br />
+    [filter] => 0<br />
+    [format] => 0<br />
+    [filename] => admin_activity_archive_2024-10-21_11-19-52.csv<br />
+    [savetofile] => 1<br />
+)<br />
+"
+"info","2024-10-21 11:20:13","59.154.130.138","15 ITSVS","admin_activity.php","","0","","Accessed page [admin_activity.php]","Array<br />
+(<br />
+)<br />
+"
+"info","2024-10-21 11:20:27","59.154.130.138","15 ITSVS","admin_activity.php","action=save","0","","Accessed page [admin_activity.php] with action=save. Review page_parameters and postdata for details.","stdClass Object<br />
+(<br />
+    [filter] => 0<br />
+    [format] => 1<br />
+    [filename] => admin_activity_archive_2024-10-21_11-20-14.csv<br />
+    [savetofile] => 1<br />
+)<br />
+"
+"warning","2024-10-21 11:20:28","59.154.130.138","15 ITSVS","admin_activity.php","action=save","1","","Admin Activity Log accessed. Output format: CSV. Filter: all. (SaveToFile)","stdClass Object<br />
+(<br />
+    [filter] => 0<br />
+    [format] => 1<br />
+    [filename] => admin_activity_archive_2024-10-21_11-20-14.csv<br />
+    [savetofile] => 1<br />
+)<br />
+"
