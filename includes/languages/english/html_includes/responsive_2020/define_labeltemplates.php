@@ -482,7 +482,7 @@
 </ul>
 <h4>A3/SRA3 Dies</h4>
 <ul>
-    <li><a href="index.php?main_page=labeltemplates#a3bac">Full Sheets with Backslits</a></li>
+   <li><a href="index.php?main_page=labeltemplates#a3bac">Full Sheets with Backslits</a></li>
     <li><a href="index.php?main_page=labeltemplates#a3rec">Rectangles</a></li>
     <li><a href="index.php?main_page=labeltemplates#a3other">Circles</a></li>
     <li><a href="index.php?main_page=labeltemplates#sra3rec">Ovals</a></li>
@@ -876,7 +876,7 @@
 <table class="trhover" cellspacing="0" cellpadding="2" border="0">
 <tbody>
 <!--<tr>-->
-<!--	<th colspan="2" style="text-align: left;"><a name="a3rec">Rectangles</a></th>-->
+<!--	<th colspan="2" style="text-align: left;"><a name="a3rec">A3 Rectangles/Squares</a></th>-->
 <!--</tr>-->
 <!--<tr><td>835 - Label Size 400mm x 280mm - 1 label per sheet</td><td><a href='/images/templates-a3/835.pdf' target='_blank'>Download 835 Template</a></td></tr>-->
 <!--<tr><td>823 - Label Size 280mm x 80mm - 4 labels per sheet</td><td><a href='/images/templates-a3/823.pdf' target='_blank'>Download 823 Template</a></td></tr>-->

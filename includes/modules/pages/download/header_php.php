@@ -178,10 +178,6 @@ if (!isset($downloadFilesize) || ($downloadFilesize < 1)) {
 //    header("Content-Type: application/x-octet-stream");
 //    header("Content-Type: application/octet-stream");
 //    header("Content-Type: application/download");
-// $browser_filename = "40945.pdf";  // static example
-// $browser_filename = basename($filePath);
-
-
     header("Content-Type: application/force-download");
 
     header('Content-Disposition: attachment; filename="' . urlencode($browser_filename) . '"');

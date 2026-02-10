@@ -1,0 +1,26 @@
+RewriteEngine On
+
+
+
+
+# # === BEGIN MAINTENANCE MODE ===
+# RewriteCond %{REQUEST_URI} !^/Landingpage\.php$ [NC]
+# RewriteCond %{REQUEST_URI} !\.(css|js|jpg|jpeg|png|gif|ico)$ [NC]
+# RewriteRule ^.*$ /Landingpage.php [R=302,L]
+# # === END MAINTENANCE MODE ===
+
+
+RewriteCond %{QUERY_STRING} ^main_page=page&id=5$ [NC]
+RewriteRule ^(index\.php)?$ index.php?main_page=shippinginfo [R=302,L]
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 49.149.96.182
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit
+

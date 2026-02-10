@@ -121,7 +121,7 @@ $salemaker_act = $db->Execute("select count(*) as count from " . TABLE_SALEMAKER
 
     <div class="reportBox">
         <?php
-        $counter_query = "select startdate, counter, session_counter from " . TABLE_COUNTER_HISTORY . " order by startdate DESC limit 10";
+        $counter_query = "select startdate, counter, session_counter from " . TABLE_COUNTER_HISTORY . " order by startdate DESC limit 100";
         $counter = $db->Execute($counter_query);
         ?>
         <div class="header"><?php echo sprintf(LAST_10_DAYS, $counter->RecordCount()); ?><?php echo '<span class="rigth"> &nbsp;&nbsp;&nbsp;' . SESSION . ' - ' . TOTAL . '</span>'; ?></div>

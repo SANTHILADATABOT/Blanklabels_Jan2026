@@ -689,4 +689,8 @@ div.imgright img {height:26px;}
 #dieimage, #a3dieimage, #offdieimage, #rolldieimage{
 	width:141px !important;
     height:auto !important;
+	border: 1px solid #ccc;
+}
+#productMainImage img {
+	border: 1px solid #ccc;
 }

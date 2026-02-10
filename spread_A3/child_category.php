@@ -12,16 +12,16 @@ require_once __DIR__ . '/PHPExcel/Classes/PHPExcel.php';
 /* =============================
    CATEGORY ID
 ============================= */
-define('MASTER_CATEGORY_ID', 163);
+define('MASTER_CATEGORY_ID', 160);
 
 /* =============================
    DB CONNECTION
 ============================= */
 $mysqli = new mysqli(
     "localhost",
-    "stickerc_blank_staging",
-    "G=?L=HwxQq6&",
-    "stickerc_blank_staging"
+    "stickerc_blankad",
+    "bL@nk1420",
+    "stickerc_blank"
 );
 
 if ($mysqli->connect_error) {
@@ -34,7 +34,7 @@ if ($mysqli->connect_error) {
 function clean_stock_mm($value, $decimals = 3) {
     $value = trim((string)$value);
 
-    if ($value === '') return '0mm';
+    if ($value === '') return '-';
     if ($value === '*') return '*mm';
 
     if (is_numeric($value)) {
@@ -168,19 +168,19 @@ if (isset($_POST['confirm_update'])) {
 
         if ($code === '') continue;
         $orientation = ($edge === 'long') ? 'Vertical' : 'Horizontal';
-//         if ($shape === 'Backslit') {
-//             // $optionLine =
-//             //     '<option value="'.$code.'">' .
-//             //     $slits . ' ' . ucfirst($edge) . ' Backslits - ' .
-//             //     $distance . ' apart (' . $code . ')' .
-//             //     '</option>';
+        if ($shape === 'Backslit') {
+            // $optionLine =
+            //     '<option value="'.$code.'">' .
+            //     $slits . ' ' . ucfirst($edge) . ' Backslits - ' .
+            //     $distance . ' apart (' . $code . ')' .
+            //     '</option>';
             
-//           $optionLine =
-//                 '<option value="'.$code.'">' .
-//     $selector_dimension . ' - ' . $slits . ' (' . $code . ')' .
-// '</option>';
+          $optionLine =
+                '<option value="'.$code.'">' .
+    $selector_dimension . ' - ' . $slits . ' (' . $code . ')' .
+'</option>';
 
-//         }
+        }
 
 
 $excludedShapes = ['Rectangle', 'Circle', 'Oval', 'Backslit'];
@@ -191,32 +191,32 @@ if (!in_array($shape, $excludedShapes)) {
         $total_labels . ' labels per sheet (' . $code . ')' .
         '</option>';
 }
-        if($shape == 'Oval'){
-            // $optionLine =
-            //     '<option value="'.$code.'">' .
-            //     $shape . ' ' . $dimension .
-            //     ' - ' . $total_labels . ' labels per sheet (' . $code . ')' .
-            //     '</option>';
-            $optionLine = '<option value="' . $code . '">' .
-                    $selector_dimension . ' - ' .
-                    $total_labels . ' labels per sheet (' . $code . ')' .
-                    '</option>';
-        }
+        // if($shape == 'Circles'){
+        //     // $optionLine =
+        //     //     '<option value="'.$code.'">' .
+        //     //     $shape . ' ' . $dimension .
+        //     //     ' - ' . $total_labels . ' labels per sheet (' . $code . ')' .
+        //     //     '</option>';
+        //     $optionLine = '<option value="' . $code . '">' .
+        //             $selector_dimension . ' - ' .
+        //             $total_labels . ' labels per sheet (' . $code . ')' .
+        //             '</option>';
+        // }
 
        
 
-        // if ($shape == 'Backslit') {
-        //     $options['Full Sheets with Backslits'][] = $optionLine;
-        // } 
+        if ($shape == 'Backslit') {
+            $options['Full Sheets with Backslits'][] = $optionLine;
+        } 
         // if ($shape == 'Rectangle') {
         //     $options['Rectangles'][] = $optionLine;
         // } 
         // if ($shape == 'Circle') {
         //     $options['Circles'][] = $optionLine;
         // }
-        if ($shape == 'Oval') {
-            $options['Ovals'][] = $optionLine;
-        } 
+        // if ($shape == 'Oval') {
+        //     $options['Ovals'][] = $optionLine;
+        // } 
         // if (!in_array($shape, $excludedShapes)) {
         //     $options['Bottles & Other Shapes'][] = $optionLine;
         // }

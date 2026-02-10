@@ -22,9 +22,9 @@ require_once __DIR__ . '/PHPExcel/Classes/PHPExcel.php';
 ========================= */
 $mysqli = new mysqli(
     "localhost",
-    "stickerc_blank_staging",
-    "G=?L=HwxQq6&",
-    "stickerc_blank_staging"
+    "stickerc_blankad",
+    "bL@nk1420",
+    "stickerc_blank"
 );
 
 if ($mysqli->connect_errno) {

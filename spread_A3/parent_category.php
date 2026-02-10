@@ -20,10 +20,11 @@ define('MASTER_CATEGORY_ID', 133);
 ============================= */
 $mysqli = new mysqli(
     "localhost",
-    "stickerc_blank_staging",
-    "G=?L=HwxQq6&",
-    "stickerc_blank_staging"
+    "stickerc_blankad",
+    "bL@nk1420",
+    "stickerc_blank"
 );
+
 
 if ($mysqli->connect_error) {
     die("DB Connection Error: " . $mysqli->connect_error);

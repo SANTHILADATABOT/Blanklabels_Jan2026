@@ -15,8 +15,8 @@
  * HTTP_SERVER is your Main webserver: eg-http://www.yourdomain.com
  * HTTPS_SERVER is your Secure/SSL webserver: eg-https://www.yourdomain.com
  */
-define('HTTP_SERVER', 'https://staging.blanklabels.com.au');
-define('HTTPS_SERVER', 'https://staging.blanklabels.com.au');
+define('HTTP_SERVER', 'https://www.blanklabels.com.au');
+define('HTTPS_SERVER', 'https://www.blanklabels.com.au');
 
 /**
  *  If you want to tell Zen Cart to use your HTTPS URL on sensitive pages like login and checkout, set this to 'true'. Otherwise 'false'. (Keep the quotes)
@@ -35,8 +35,7 @@ define('DIR_WS_HTTPS_CATALOG', '/');
  * This is the complete physical path to your store's files.  eg: /var/www/vhost/accountname/public_html/store/
  * Should have a closing / on it.
  */
-// define('DIR_FS_CATALOG', '/home/stickerc/public_html/blank/');
-define('DIR_FS_CATALOG', '/home/stickerc/staging.blanklabels.com.au/blank/');
+define('DIR_FS_CATALOG', '/home/stickerc/public_html/blank/');
 
 /**
  * The following settings define your database connection.
@@ -46,9 +45,9 @@ define('DB_TYPE', 'mysql'); // always 'mysql'
 define('DB_PREFIX', ''); // prefix for database table names -- preferred to be left empty
 define('DB_CHARSET', 'utf8'); // 'utf8' or 'latin1' are most common
 define('DB_SERVER', 'localhost');  // address of your db server
-define('DB_SERVER_USERNAME', 'stickerc_blank_staging');
-define('DB_SERVER_PASSWORD', 'G=?L=HwxQq6&');
-define('DB_DATABASE', 'stickerc_blank_staging');
+define('DB_SERVER_USERNAME', 'stickerc_blankad');
+define('DB_SERVER_PASSWORD', 'bL@nk1420');
+define('DB_DATABASE', 'stickerc_blank');
 
 /**
  * This is an advanced setting to determine whether you want to cache SQL queries.

@@ -6907,7 +6907,6 @@ function a3DieNo() {
     var tl='';
     var ps='';
     var sa='';
-    
     switch(selectedA3Die) {
 // case '800':sl='index.php?main_page=product_info&cPath=133&products_id=1550';tm='0mm';sm='0mm';lw='297mm';lh='420mm';hp='0mm';vp='0mm';co='Backslits';na='1';nd='1';tl='1';ps='A3';sa='P & S';break;
 // case '801':sl='index.php?main_page=product_info&cPath=133&products_id=1551';tm='0mm';sm='0mm';lw='297mm';lh='420mm';hp='100mm';vp='0mm';co='Backslits';na='1';nd='1';tl='1';ps='A3';sa='Paper';break;
@@ -6957,40 +6956,40 @@ case '30010':sl='index.php?main_page=product_info&cPath=133&products_id=2701';tm
 case '30011':sl='index.php?main_page=product_info&cPath=133&products_id=2702';tm='0mm'; sm='0mm';lw='320mm'; lh='450mm';hp='0mm'; vp='0mm';co='Backslit'; na='1'; nd='1';tl='1'; ps='SRA3'; sa='Paper';bw='Top Margin, Side Margin, could be an issue'; pf='Backslit - 3 SE Slit - 320 long (112.7mm apart - Centred)';break;
 case '30012':sl='index.php?main_page=product_info&cPath=133&products_id=2703';tm='0mm'; sm='0mm';lw='320mm'; lh='450mm';hp='0mm'; vp='0mm';co='Backslit'; na='1'; nd='1';tl='1'; ps='SRA3'; sa='Paper';bw='Top Margin, Side Margin, could be an issue'; pf='Backslit - 8 SE Slit - 320 long (50.1mm apart - Centred)';break;
 // case '30013':sl='index.php?main_page=product_info&cPath=133&products_id=1549';tm='0mm'; sm='0mm';lw='320mm'; lh='450mm';hp='0mm'; vp='0mm';co='Backslit'; na='1'; nd='1';tl='1'; ps='A3'; sa='Paper';bw='Top Margin, Side Margin, could be an issue'; pf='Backslit - 9 LE Slit - 450 long (35mm apart - Centred)';break;
-case '30013':sl='index.php?main_page=product_info&cPath=133&products_id=2697';tm='0mm'; sm='0mm';lw='320mm'; lh='450mm';hp='0mm'; vp='0mm';co='Backslit'; na='1'; nd='1';tl='1'; ps='SRA3'; sa='Paper';bw='Top Margin, Side Margin, could be an issue'; pf='Backslit - 9 LE Slit - 450 long (35mm apart - Centred)';break;
+case '30013':sl='index.php?main_page=product_info&cPath=133&products_id=1549';tm='0mm'; sm='0mm';lw='320mm'; lh='450mm';hp='0mm'; vp='0mm';co='Backslit'; na='1'; nd='1';tl='1'; ps='SRA3'; sa='Paper';bw='Top Margin, Side Margin, could be an issue'; pf='Backslit - 9 LE Slit - 450 long (35mm apart - Centred)';break;
 case '30014':sl='index.php?main_page=product_info&cPath=133&products_id=2704';tm='22.5mm'; sm='10.5mm';lw='90mm'; lh='90mm';hp='93mm'; vp='95mm';co='Circle'; na='3'; nd='4';tl='12'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
 case '30015':sl='index.php?main_page=product_info&cPath=133&products_id=2705';tm='19.5mm'; sm='20mm';lw='115mm'; lh='115mm';hp='142mm'; vp='132.5mm';co='CD'; na='2'; nd='3';tl='6'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
 case '30016':sl='index.php?main_page=product_info&cPath=133&products_id=2706';tm='22.25mm'; sm='5.5mm';lw='53mm'; lh='53mm';hp='58mm'; vp='58mm';co='Circle'; na='5'; nd='6';tl='30'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
 case '30017':sl='index.php?main_page=product_info&cPath=133&products_id=5257';tm='23mm'; sm='8mm';lw='150mm'; lh='200mm';hp='154mm'; vp='204mm';co='2mm'; na='2'; nd='2';tl='4'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 // case '30018':sl='index.php?main_page=product_info&cPath=133&products_id=2707';tm='28mm'; sm='22.5mm';lw='65mm'; lh='35mm';hp='70mm'; vp='40mm';co='Oval'; na='4'; nd='10';tl='40'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30018':sl='index.php?main_page=product_info&cPath=133&products_id=2708';tm='28mm'; sm='22.5mm';lw='65mm'; lh='35mm';hp='70mm'; vp='40mm';co='Oval'; na='4'; nd='10';tl='40'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30018':sl='index.php?main_page=product_info&cPath=133&products_id=2707';tm='28mm'; sm='22.5mm';lw='65mm'; lh='35mm';hp='70mm'; vp='40mm';co='Oval'; na='4'; nd='10';tl='40'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30019':sl='index.php?main_page=product_info&cPath=133&products_id=5258';tm='-'; sm='-';lw='95mm'; lh='35mm';hp='95mm'; vp='35mm';co='0mm'; na='8'; nd='4';tl='32'; ps='SRA3'; sa='Paper';bw='Top Margin, Side Margin, Horizontal Pitch, Vertical Pitch, could be an issue'; pf='-';break;
 // case '30020':sl='index.php?main_page=product_info&cPath=133&products_id=2709';tm='25.5mm'; sm='27.5mm';lw='130mm'; lh='130mm';hp='135mm'; vp='135mm';co='2.5mm'; na='2'; nd='3';tl='6'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30020':sl='index.php?main_page=product_info&cPath=133&products_id=2710';tm='25.5mm'; sm='27.5mm';lw='130mm'; lh='130mm';hp='135mm'; vp='135mm';co='2.5mm'; na='2'; nd='3';tl='6'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30020':sl='index.php?main_page=product_info&cPath=133&products_id=2709';tm='25.5mm'; sm='27.5mm';lw='130mm'; lh='130mm';hp='135mm'; vp='135mm';co='2.5mm'; na='2'; nd='3';tl='6'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30021':sl='index.php?main_page=product_info&cPath=133&products_id=5259';tm='59.55mm'; sm='10mm';lw='300mm'; lh='300mm';hp='0mm'; vp='419.1mm';co='Circle'; na='1'; nd='1';tl='1'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 // case '30022':sl='index.php?main_page=product_info&cPath=133&products_id=2711';tm='26mm'; sm='18mm';lw='68mm'; lh='97mm';hp='72mm'; vp='101mm';co='2.5mm'; na='4'; nd='4';tl='16'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30022':sl='index.php?main_page=product_info&cPath=133&products_id=2712';tm='26mm'; sm='18mm';lw='68mm'; lh='97mm';hp='72mm'; vp='101mm';co='2.5mm'; na='4'; nd='4';tl='16'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30022':sl='index.php?main_page=product_info&cPath=133&products_id=2711';tm='26mm'; sm='18mm';lw='68mm'; lh='97mm';hp='72mm'; vp='101mm';co='2.5mm'; na='4'; nd='4';tl='16'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30023':sl='index.php?main_page=product_info&cPath=133&products_id=5260';tm='14.55mm'; sm='53.5mm';lw='190mm'; lh='190mm';hp='0mm'; vp='200mm';co='Circle'; na='1'; nd='2';tl='2'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
 // case '30024':sl='index.php?main_page=product_info&cPath=133&products_id=2713';tm='60mm'; sm='20mm';lw='280mm'; lh='80mm';hp='0mm'; vp='84mm';co='2.5mm'; na='1'; nd='4';tl='4'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30024':sl='index.php?main_page=product_info&cPath=133&products_id=2714';tm='60mm'; sm='20mm';lw='280mm'; lh='80mm';hp='0mm'; vp='84mm';co='2.5mm'; na='1'; nd='4';tl='4'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30024':sl='index.php?main_page=product_info&cPath=133&products_id=2713';tm='60mm'; sm='20mm';lw='280mm'; lh='80mm';hp='0mm'; vp='84mm';co='2.5mm'; na='1'; nd='4';tl='4'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30025':sl='index.php?main_page=product_info&cPath=133&products_id=5261';tm='39.55mm'; sm='80mm';lw='160mm'; lh='160mm';hp='0mm'; vp='180mm';co='Circle'; na='1'; nd='2';tl='2'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
 // case '30026':sl='index.php?main_page=product_info&cPath=133&products_id=2715';tm='48.5mm'; sm='20mm';lw='90mm'; lh='55mm';hp='95mm'; vp='60mm';co='2.5mm'; na='3'; nd='6';tl='18'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30026':sl='index.php?main_page=product_info&cPath=133&products_id=2716';tm='48.5mm'; sm='20mm';lw='90mm'; lh='55mm';hp='95mm'; vp='60mm';co='2.5mm'; na='3'; nd='6';tl='18'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30026':sl='index.php?main_page=product_info&cPath=133&products_id=2715';tm='48.5mm'; sm='20mm';lw='90mm'; lh='55mm';hp='95mm'; vp='60mm';co='2.5mm'; na='3'; nd='6';tl='18'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30027':sl='index.php?main_page=product_info&cPath=133&products_id=5262';tm='0mm'; sm='0mm';lw='297mm'; lh='420mm';hp='0mm'; vp='0mm';co='Backslit'; na='1'; nd='1';tl='1'; ps='A3'; sa='Paper';bw='Top Margin, Side Margin, could be an issue'; pf='Backslit - 12 (45&deg; Angle) Slit - Diagonal (60mm apart - Centred)';break;
 // case '30028':sl='index.php?main_page=product_info&cPath=133&products_id=2717';tm='25mm'; sm='18mm';lw='140mm'; lh='97mm';hp='144mm'; vp='101mm';co='2.5mm'; na='2'; nd='4';tl='8'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30028':sl='index.php?main_page=product_info&cPath=133&products_id=2718';tm='25mm'; sm='18mm';lw='140mm'; lh='97mm';hp='144mm'; vp='101mm';co='2.5mm'; na='2'; nd='4';tl='8'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30028':sl='index.php?main_page=product_info&cPath=133&products_id=2717';tm='25mm'; sm='18mm';lw='140mm'; lh='97mm';hp='144mm'; vp='101mm';co='2.5mm'; na='2'; nd='4';tl='8'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30029':sl='index.php?main_page=product_info&cPath=133&products_id=5263';tm='19mm'; sm='8mm';lw='150mm'; lh='100mm';hp='154mm'; vp='104mm';co='1mm'; na='2'; nd='4';tl='8'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 // case '30030':sl='index.php?main_page=product_info&cPath=133&products_id=2719';tm='30mm'; sm='21mm';lw='90mm'; lh='40mm';hp='94mm'; vp='44mm';co='2.5mm'; na='3'; nd='9';tl='27'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30030':sl='index.php?main_page=product_info&cPath=133&products_id=2720';tm='30mm'; sm='21mm';lw='90mm'; lh='40mm';hp='94mm'; vp='44mm';co='2.5mm'; na='3'; nd='9';tl='27'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30030':sl='index.php?main_page=product_info&cPath=133&products_id=2719';tm='30mm'; sm='21mm';lw='90mm'; lh='40mm';hp='94mm'; vp='44mm';co='2.5mm'; na='3'; nd='9';tl='27'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30031':sl='index.php?main_page=product_info&cPath=133&products_id=5264';tm='-'; sm='-';lw='150mm'; lh='75mm';hp='154mm'; vp='79mm';co='1mm'; na='2'; nd='5';tl='10'; ps='SRA3'; sa='Paper';bw='Top Margin, Side Margin, could be an issue'; pf='-';break;
 // case '30032':sl='index.php?main_page=product_info&cPath=133&products_id=2721';tm='20.92mm'; sm='23mm';lw='135mm'; lh='55mm';hp='139mm'; vp='59mm';co='2.5mm'; na='2'; nd='7';tl='14'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30032':sl='index.php?main_page=product_info&cPath=133&products_id=2722';tm='20.92mm'; sm='23mm';lw='135mm'; lh='55mm';hp='139mm'; vp='59mm';co='2.5mm'; na='2'; nd='7';tl='14'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30032':sl='index.php?main_page=product_info&cPath=133&products_id=2721';tm='20.92mm'; sm='23mm';lw='135mm'; lh='55mm';hp='139mm'; vp='59mm';co='2.5mm'; na='2'; nd='7';tl='14'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30033':sl='index.php?main_page=product_info&cPath=133&products_id=5265';tm='-'; sm='-';lw='320mm'; lh='381mm';hp='0mm'; vp='0mm';co='Backslit'; na='1'; nd='1';tl='1'; ps='SRA3'; sa='Synthetic';bw='Top Margin, Side Margin, could be an issue'; pf='Backslit - 2 SE Slit - 320 long (100mm apart - Centred)';break;
 // case '30034':sl='index.php?main_page=product_info&cPath=133&products_id=2723';tm='23mm'; sm='16mm';lw='69mm'; lh='200mm';hp='73mm'; vp='204mm';co='2.5mm'; na='4'; nd='2';tl='8'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30034':sl='index.php?main_page=product_info&cPath=133&products_id=2724';tm='23mm'; sm='16mm';lw='69mm'; lh='200mm';hp='73mm'; vp='204mm';co='2.5mm'; na='4'; nd='2';tl='8'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30034':sl='index.php?main_page=product_info&cPath=133&products_id=2723';tm='23mm'; sm='16mm';lw='69mm'; lh='200mm';hp='73mm'; vp='204mm';co='2.5mm'; na='4'; nd='2';tl='8'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30035':sl='index.php?main_page=product_info&cPath=133&products_id=5266';tm='21mm'; sm='23.5mm';lw='62mm'; lh='26mm';hp='*mm'; vp='*mm';co='4.5mm'; na='4'; nd='12';tl='48'; ps='SRA3'; sa='Paper';bw='Horizontal Pitch, Vertical Pitch, could be an issue'; pf='-';break;
 // case '30036':sl='index.php?main_page=product_info&cPath=133&products_id=2725';tm='25mm'; sm='20mm';lw='280mm'; lh='400mm';hp='0mm'; vp='0mm';co='2.5mm'; na='1'; nd='1';tl='1'; ps='A3'; sa='Paper';bw='-'; pf='-';break;
-case '30036':sl='index.php?main_page=product_info&cPath=133&products_id=2726';tm='25mm'; sm='20mm';lw='280mm'; lh='400mm';hp='0mm'; vp='0mm';co='2.5mm'; na='1'; nd='1';tl='1'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
+case '30036':sl='index.php?main_page=product_info&cPath=133&products_id=2725';tm='25mm'; sm='20mm';lw='280mm'; lh='400mm';hp='0mm'; vp='0mm';co='2.5mm'; na='1'; nd='1';tl='1'; ps='SRA3'; sa='Paper';bw='-'; pf='-';break;
 case '30037':sl='index.php?main_page=product_info&cPath=133&products_id=5267';tm='20.5mm'; sm='17.5mm';lw='25.75mm'; lh='63mm';hp='*mm'; vp='*mm';co='2.5mm'; na='9'; nd='6';tl='54'; ps='SRA3'; sa='Paper';bw='Horizontal Pitch, Vertical Pitch, could be an issue'; pf='-';break;
 case '30038':sl='index.php?main_page=product_info&cPath=133&products_id=5268';tm='21mm'; sm='17mm';lw='43mm'; lh='64mm';hp='*mm'; vp='*mm';co='0.5mm'; na='6'; nd='6';tl='36'; ps='SRA3'; sa='Paper';bw='Horizontal Pitch, Vertical Pitch, could be an issue'; pf='-';break;
 case '30039':sl='index.php?main_page=product_info&cPath=133&products_id=5269';tm='-'; sm='-';lw='15.5mm'; lh='49mm';hp='*mm'; vp='*mm';co='mixed'; na='10'; nd='8';tl='80'; ps='SRA3'; sa='Paper';bw='Top Margin, Side Margin, Horizontal Pitch, Vertical Pitch, could be an issue'; pf='-';break;
@@ -7059,9 +7058,8 @@ case '30129':sl='index.php?main_page=product_info&cPath=133&products_id=5331';tm
 case 'A3':sl='index.php?main_page=product_info&cPath=133&products_id=1550';tm='0mm'; sm='0mm';lw='297mm'; lh='420mm';hp='0mm'; vp='0mm';co='No Backslit'; na='1'; nd='1';tl='1'; ps='A3'; sa='Paper & Synthetic';bw='Top Margin, Side Margin, could be an issue'; pf='-';break;
 case 'SRA3':sl='index.php?main_page=product_info&cPath=133&products_id=2698';tm='0mm'; sm='0mm';lw='320mm'; lh='450mm';hp='0mm'; vp='0mm';co='No Backslit'; na='1'; nd='1';tl='1'; ps='SRA3'; sa='Paper & Synthetic';bw='Top Margin, Side Margin, could be an issue'; pf='-';break;
 default:sl='#';tm='';sm='';lw='';lh='';hp='';vp='';co='';na='';nd='';tl='';ps='';sa='';bw=''; pf='';
-
     }
-    document.getElementById('a3sizelink').href=sl;
+     document.getElementById('a3sizelink').href=sl;
     document.getElementById('tm').innerHTML=tm;
     document.getElementById('sm').innerHTML=sm;
     document.getElementById('lw').innerHTML=lw;
@@ -7077,6 +7075,7 @@ default:sl='#';tm='';sm='';lw='';lh='';hp='';vp='';co='';na='';nd='';tl='';ps=''
     document.getElementById('bw').innerHTML=bw;
     document.getElementById('pf').innerHTML=pf;
 }
+
 // function rollDieNo() {
 //     var dsr = document.getElementById("drollselect");
 //     var selectedRollDie = dsr.options[dsr.selectedIndex].value;
